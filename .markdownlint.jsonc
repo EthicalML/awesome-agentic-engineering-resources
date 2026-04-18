@@ -1,0 +1,10 @@
+{
+  // Relaxed rules suitable for an awesome-list README with rich HTML blocks and long lines.
+  "default": true,
+  "MD013": false,    // line length — awesome-lists routinely exceed 80 chars
+  "MD033": false,    // allow inline HTML (shields, <picture>, <details>, tables)
+  "MD041": false,    // first line need not be a top-level heading (shields row first)
+  "MD034": false,    // bare URLs allowed in shields/images
+  "MD024": { "siblings_only": true }, // allow repeated sub-headings in different sections
+  "MD036": false     // emphasis-as-heading permitted for section sub-labels
+}
