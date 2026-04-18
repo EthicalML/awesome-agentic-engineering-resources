@@ -258,6 +258,18 @@ Please review our [CONTRIBUTING.md](./CONTRIBUTING.md) before submitting a PR �
 
 *Discords, Slacks, forums, and meetups where practitioners gather.*
 
+- 🆓 [**MLOps Community**](https://mlops.community/) — Slack + podcast + meetups; the biggest practitioner community at the ops/engineering intersection. Active agent and LLM-ops channels.
+- 🆓 [**LangChain Discord**](https://discord.gg/langchain) — Heavy day-to-day Q&A on agent orchestration, RAG, evaluation, MCP.
+- 🆓 [**LlamaIndex Discord**](https://discord.gg/dGcwcsnxhU) — RAG-centric builder community with active reference-impl discussion.
+- 🆓 [**r/LocalLLaMA**](https://www.reddit.com/r/LocalLLaMA/) — The definitive open-weights / local-inference forum; fastest signal for new models, quantisation, and serving.
+- 🆓 [**r/MachineLearning**](https://www.reddit.com/r/MachineLearning/) — Academic and practitioner mix; where new papers and threads get dissected.
+- 🆓 [**Hacker News**](https://news.ycombinator.com/) — Filter for "LLM", "agent", "Claude", "Cursor" — where engineering-side essays trend.
+- 🆓 [**EleutherAI Discord**](https://discord.gg/zBGx3azzUn) — Open research community; strong training/interpretability discussion.
+- 🆓 [**Hugging Face Discord & Forums**](https://huggingface.co/join/discord) — Transformers, TRL, PEFT, model-hub discussions.
+- 🆓 [**AI Engineer World's Fair / Latent Space Discord**](https://discord.gg/latent-space) — Practitioner community anchoring the AI Engineer conference series.
+- 🆓 [**Cursor Community Forum**](https://forum.cursor.com/) — User-driven forum for Cursor rules, MCP, and workflows.
+- 🆓 [**Anthropic Discord**](https://www.anthropic.com/discord) — Official Claude / Claude Code / MCP community.
+
 <a name="courses"></a>
 ## 🧑‍🎓 Courses
 
