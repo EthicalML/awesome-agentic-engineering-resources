@@ -1,4 +1,5 @@
 <!--lint disable table-pipe-alignment table-cell-padding double-link awesome-list-item awesome-spell-check no-heading-punctuation no-multiple-toplevel-headings awesome-heading no-undefined-references awesome-license-->
+<!--lint disable is intentional for this curated index: repeated canonical links across sections, dense matrix/timeline tables, and non-awesome-list structural sections trigger high-noise violations that are expected in this format.-->
 
 [![Awesome](https://awesome.re/badge.svg?cacheSeconds=86400)](https://awesome.re)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
