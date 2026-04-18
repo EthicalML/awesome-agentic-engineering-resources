@@ -24,4 +24,4 @@ jobs:
         with:
           node-version: '20'
       - name: Run awesome-lint
-        run: npx awesome-lint
+        run: npx awesome-lint@2.3.0
