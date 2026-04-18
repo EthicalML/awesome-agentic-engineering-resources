@@ -275,6 +275,91 @@ Please review our [CONTRIBUTING.md](./CONTRIBUTING.md) before submitting a PR �
 
 *Structured courses — free and paid, university and industry.*
 
+### T1 · Coding Agents & AI-Assisted Development
+
+- ⭐ 🧑‍🎓 🆓 [**AI Python for Beginners**](https://www.deeplearning.ai/short-courses/ai-python-for-beginners/) — DeepLearning.AI (Andrew Ng). Gateway to AI-assisted coding.
+- 🧑‍🎓 🆓 [**Pair Programming with a Large Language Model**](https://www.deeplearning.ai/short-courses/pair-programming-llm/) — DeepLearning.AI + Google.
+- 🧑‍🎓 🆓 [**GitHub Copilot Fundamentals**](https://learn.microsoft.com/en-us/training/paths/copilot/) — Microsoft Learn. Official training path.
+
+### T4 · SWE Benchmarks & Coding Evaluation
+
+- 🧑‍🎓 🆓 [**Evaluating and Debugging Generative AI**](https://www.deeplearning.ai/short-courses/evaluating-debugging-generative-ai/) — DeepLearning.AI + W&B. Covers coding-eval mechanics.
+- 🧑‍🎓 🆓 [**Mastering LLMs: Evals**](https://maven.com/parlance-labs/evals) — Hamel Husain & Shreya Shankar (Maven). Companion evals-for-LLMs curriculum.
+- 🧑‍🎓 🆓 [**SWE-bench tutorial**](https://www.swebench.com/lite.html) — Princeton NLP. Free, self-paced walk-through of running and scoring coding evals.
+
+### T6 · LLM Application Architecture & System Design
+
+- ⭐ 🧑‍🎓 🆓 [**LLM Bootcamp**](https://fullstackdeeplearning.com/llm-bootcamp/) — Full Stack Deep Learning. Free 2-day bootcamp on building LLM apps end-to-end.
+- 🧑‍🎓 🆓 [**Building Systems with the ChatGPT API**](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/) — DeepLearning.AI + OpenAI.
+- 🧑‍🎓 🆓 [**CS25: Transformers United**](https://web.stanford.edu/class/cs25/) — Stanford. Seminal deep-dive seminar series.
+
+### T7 · Prompt Engineering
+
+- ⭐ 🧑‍🎓 🆓 [**ChatGPT Prompt Engineering for Developers**](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) — Andrew Ng & Isa Fulford (OpenAI).
+- 🧑‍🎓 🆓 [**Anthropic Prompt Engineering Interactive Tutorial**](https://github.com/anthropics/prompt-eng-interactive-tutorial) — Anthropic. Hands-on, notebook-based.
+- 🧑‍🎓 🆓 [**Prompt Engineering Guide (DAIR.AI)**](https://www.promptingguide.ai/) — Self-paced, continuously updated.
+
+### T8 · Retrieval-Augmented Generation (RAG)
+
+- 🧑‍🎓 🆓 [**Advanced Retrieval for AI with Chroma**](https://www.deeplearning.ai/short-courses/advanced-retrieval-for-ai/) — DeepLearning.AI.
+- 🧑‍🎓 🆓 [**Building and Evaluating Advanced RAG Applications**](https://www.deeplearning.ai/short-courses/building-evaluating-advanced-rag/) — DeepLearning.AI + LlamaIndex + TruEra.
+- 🧑‍🎓 🆓 [**LangChain Chat with Your Data**](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/) — DeepLearning.AI + LangChain.
+- 🧑‍🎓 💰 [**Systematically Improving RAG Applications**](https://maven.com/applied-llms/rag-playbook) — Jason Liu on Maven.
+
+### T10 · Tool Use, Function Calling & MCP
+
+- 🧑‍🎓 🆓 [**Functions, Tools and Agents with LangChain**](https://www.deeplearning.ai/short-courses/functions-tools-agents-langchain/) — DeepLearning.AI + LangChain.
+- 🧑‍🎓 🆓 [**MCP: Build Rich-Context AI Apps with Anthropic**](https://www.deeplearning.ai/short-courses/mcp-build-rich-context-ai-apps-with-anthropic/) — DeepLearning.AI + Anthropic.
+- 🧑‍🎓 🆓 [**Introduction to MCP**](https://modelcontextprotocol.io/quickstart) — Anthropic official quickstart.
+
+### T11 · Orchestration, Planning & Design Patterns
+
+- 🧑‍🎓 🆓 [**AI Agents in LangGraph**](https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/) — DeepLearning.AI + LangChain.
+- 🧑‍🎓 🆓 [**AI Agentic Design Patterns with AutoGen**](https://www.deeplearning.ai/short-courses/ai-agentic-design-patterns-with-autogen/) — DeepLearning.AI + Microsoft.
+- 🧑‍🎓 🆓 [**Hugging Face Agents Course**](https://huggingface.co/learn/agents-course) — Hugging Face. Free, certifying course on agent fundamentals.
+
+### T12 · Multi-Agent Systems
+
+- 🧑‍🎓 🆓 [**Multi AI Agent Systems with crewAI**](https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/) — DeepLearning.AI + crewAI.
+- 🧑‍🎓 🆓 [**Practical Multi AI Agents and Advanced Use Cases with crewAI**](https://www.deeplearning.ai/short-courses/practical-multi-ai-agents-and-advanced-use-cases-with-crewai/) — DeepLearning.AI.
+- 🧑‍🎓 🆓 [**Building Agentic RAG with LlamaIndex**](https://www.deeplearning.ai/short-courses/building-agentic-rag-with-llamaindex/) — DeepLearning.AI + LlamaIndex.
+
+### T13 · Evaluation & Testing
+
+- ⭐ 🧑‍🎓 💰 [**AI Evals For Engineers & PMs**](https://maven.com/parlance-labs/evals) — Hamel Husain & Shreya Shankar on Maven. The industry-standard evals cohort course.
+- 🧑‍🎓 🆓 [**Quality and Safety for LLM Applications**](https://www.deeplearning.ai/short-courses/quality-safety-llm-applications/) — DeepLearning.AI + WhyLabs.
+- 🧑‍🎓 🆓 [**Automated Testing for LLMOps**](https://www.deeplearning.ai/short-courses/automated-testing-llmops/) — DeepLearning.AI + CircleCI.
+
+### T14 · Observability, Tracing & Debugging
+
+- 🧑‍🎓 🆓 [**LLMOps**](https://www.deeplearning.ai/short-courses/llmops/) — DeepLearning.AI + Google Cloud.
+- 🧑‍🎓 🆓 [**Evaluating LLMs with Arize**](https://arize.com/llm-evaluation/) — Arize course hub.
+- 🧑‍🎓 🆓 [**LangSmith Academy**](https://academy.langchain.com/) — LangChain. Free self-paced LangSmith courses covering tracing and evals.
+
+### T15 · Guardrails & Security
+
+- 🧑‍🎓 🆓 [**Red Teaming LLM Applications**](https://www.deeplearning.ai/short-courses/red-teaming-llm-applications/) — DeepLearning.AI + Giskard.
+- 🧑‍🎓 🆓 [**Safe and Reliable AI via Guardrails**](https://www.deeplearning.ai/short-courses/safe-and-reliable-ai-via-guardrails/) — DeepLearning.AI + Guardrails AI.
+- 🧑‍🎓 🆓 [**Prompt Injection Attacks (Learn Prompting)**](https://learnprompting.org/docs/prompt_hacking/injection) — Learn Prompting. Open course covering injection/jailbreak taxonomies.
+
+### T16 · Safety, Alignment & Responsible AI
+
+- 🧑‍🎓 🆓 [**AI Safety Fundamentals**](https://aisafetyfundamentals.com/) — BlueDot Impact. The standard entry curriculum.
+- 🧑‍🎓 🆓 [**ARENA (Alignment Research Engineer Accelerator)**](https://www.arena.education/) — Hands-on alignment / interpretability.
+- 🧑‍🎓 🆓 [**Intro to AI Safety, Remastered**](https://course.aisafetyfundamentals.com/alignment) — Richard Ngo / BlueDot. Free reading curriculum.
+
+### T17 · Fine-tuning, Post-training & RLHF
+
+- ⭐ 🧑‍🎓 🆓 [**Finetuning Large Language Models**](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/) — DeepLearning.AI + Lamini.
+- 🧑‍🎓 🆓 [**Reinforcement Learning from Human Feedback**](https://www.deeplearning.ai/short-courses/reinforcement-learning-from-human-feedback/) — DeepLearning.AI + Google Cloud.
+- 🧑‍🎓 🆓 [**Hugging Face NLP Course (incl. RLHF chapter)**](https://huggingface.co/learn/nlp-course) — Hugging Face.
+
+### T18 · Inference, Serving, Cost & Latency
+
+- 🧑‍🎓 🆓 [**Efficiently Serving LLMs**](https://www.deeplearning.ai/short-courses/efficiently-serving-llms/) — DeepLearning.AI + Predibase.
+- 🧑‍🎓 🆓 [**Quantization Fundamentals with Hugging Face**](https://www.deeplearning.ai/short-courses/quantization-fundamentals-with-hugging-face/) — DeepLearning.AI + HF.
+- 🧑‍🎓 🆓 [**CUDA Mode lectures**](https://github.com/cuda-mode/lectures) — Community lectures on GPU inference internals.
+
 <a name="books"></a>
 ## 📘 Books
 
