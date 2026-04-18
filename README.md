@@ -100,3 +100,49 @@ Resources are organised as a **matrix**: the top-level sections above (rows) are
 
 The **Trending / What's New**, **Milestones Timeline**, **Governance & Responsible AI**, **Product / UX / Economics**, and **Teams, Hiring & Org Design** sections collapse across topics and are presented as curated lists rather than matrix cells.
 
+## Contributing to the list
+
+Please review our [CONTRIBUTING.md](./CONTRIBUTING.md) before submitting a PR — it explains the one-line description style, how to pick the right row/topic cell, and the quality bar for inclusion. Thank you to the community for supporting the list's growth 🚀
+
+## Want to receive recurrent updates on this repo and other advancements?
+
+<table>
+  <tr>
+    <td width="30%">
+         You can join the <a href="https://ethical.institute/mle.html">Machine Learning Engineer</a> newsletter. Join over 70,000 ML professionals and enthusiasts who receive weekly curated articles & tutorials on production Machine Learning.
+    </td>
+    <td width="70%">
+        <a href="https://ethical.institute/mle.html"><img src="images/mleng.png"></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="30%">
+         Also check out <a href="https://github.com/EthicalML/awesome-production-agentic-systems">Awesome Production Agentic Systems</a> and <a href="https://github.com/EthicalML/awesome-production-machine-learning">Awesome Production Machine Learning</a>, the sister lists of open-source <em>tools</em> for agentic systems and production ML respectively.
+    </td>
+    <td width="70%">
+        <a href="https://github.com/EthicalML/awesome-production-agentic-systems"><img src="images/list.jpg"></a>
+    </td>
+  </tr>
+</table>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="
+      https://api.star-history.com/svg?repos=EthicalML/awesome-agentic-engineering-resources&type=Date&theme=dark
+    "
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="
+      https://api.star-history.com/svg?repos=EthicalML/awesome-agentic-engineering-resources&type=Date
+    "
+  />
+  <img
+    alt="Star History Chart"
+    src="https://api.star-history.com/svg?repos=EthicalML/awesome-agentic-engineering-resources&type=Date"
+  />
+</picture>
+
+# Main Content
+
