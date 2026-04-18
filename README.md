@@ -273,6 +273,7 @@ Please review our [CONTRIBUTING.md](./CONTRIBUTING.md) before submitting a PR �
 - 🆓 [**EleutherAI Discord**](https://discord.gg/zBGx3azzUn) — Open research community; strong training/interpretability discussion.
 - 🆓 [**Hugging Face Discord & Forums**](https://huggingface.co/join/discord) — Transformers, TRL, PEFT, model-hub discussions.
 - 🆓 [**AI Engineer World's Fair / Latent Space Discord**](https://discord.gg/latent-space) — Practitioner community anchoring the AI Engineer conference series.
+- 🆓 [**AI Dev Board**](https://aidevboard.com/) — Community-curated hub for AI engineering resources and discussions.
 - 🆓 [**Cursor Community Forum**](https://forum.cursor.com/) — User-driven forum for Cursor rules, MCP, and workflows.
 - 🆓 [**Anthropic Discord**](https://www.anthropic.com/discord) — Official Claude / Claude Code / MCP community.
 
