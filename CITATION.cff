@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this list in academic work, please cite it as below."
+title: "Awesome Agentic Engineering Resources"
+abstract: "A curated list of resources (articles, books, courses, papers, tutorials, cookbooks, playbooks, talks, podcasts, newsletters, benchmarks, reference implementations and case studies) on agentic engineering and building agentic/LLM systems."
+authors:
+  - family-names: Saucedo
+    given-names: Alejandro
+    affiliation: EthicalML
+url: "https://github.com/EthicalML/awesome-agentic-engineering-resources"
+repository-code: "https://github.com/EthicalML/awesome-agentic-engineering-resources"
+license: CC0-1.0
+type: dataset
+keywords:
+  - awesome-list
+  - agentic-engineering
+  - ai-engineering
+  - llm
+  - agents
+  - machine-learning
+  - production-ai
