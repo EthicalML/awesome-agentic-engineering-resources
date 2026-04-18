@@ -1,5 +1,5 @@
-<!--lint disable table-pipe-alignment table-cell-padding double-link awesome-list-item awesome-spell-check no-heading-punctuation no-multiple-toplevel-headings awesome-heading no-undefined-references awesome-license-->
-<!--lint disable is intentional for this curated index: repeated canonical links across sections, dense matrix/timeline tables, and non-awesome-list structural sections trigger high-noise violations that are expected in this format.-->
+<!--lint disable table-pipe-alignment table-cell-padding double-link awesome-spell-check-->
+<!--lint disable is intentional for this curated index: repeated canonical links across sections and dense matrix/timeline tables trigger high-noise violations that are expected in this format; spell-check is disabled because this list contains many proper nouns, project names, and acronyms that repeatedly false-positive.-->
 
 [![Awesome](https://awesome.re/badge.svg?cacheSeconds=86400)](https://awesome.re)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
@@ -15,8 +15,7 @@
 
 This is a *resources* list, not a tools list. Open-source **tools** for building agentic systems live in the sister list [awesome-production-agentic-systems](https://github.com/EthicalML/awesome-production-agentic-systems); production ML tooling lives in [awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning). This list covers the *learning, design, and operational resources* that sit alongside those tools — including both:
 
-- **Agentic engineering** — using AI agents to do software engineering (Copilot, Cursor, Claude Code, Aider, Cline, Windsurf, Codex; spec-driven development; context engineering; agent IDE rules and memory files; SWE benchmarks).
-- **AI / agentic systems engineering** — building agentic and LLM-powered systems (architecture, RAG, memory, tool use & MCP, orchestration, multi-agent coordination, evaluation, observability, guardrails, safety, fine-tuning, inference, product/UX, economics, teams).
+**Agentic engineering** focuses on using AI agents to do software engineering (Copilot, Cursor, Claude Code, Aider, Cline, Windsurf, Codex; spec-driven development; context engineering; agent IDE rules and memory files; SWE benchmarks). **AI / agentic systems engineering** focuses on building agentic and LLM-powered systems (architecture, RAG, memory, tool use & MCP, orchestration, multi-agent coordination, evaluation, observability, guardrails, safety, fine-tuning, inference, product/UX, economics, teams).
 
 You can keep up to date by watching this repo for the monthly releases summarising newly added resources 🤩
 
@@ -107,7 +106,7 @@ The **Trending / What's New**, **Milestones Timeline**, **Governance & Responsib
 
 Please review our [CONTRIBUTING.md](./CONTRIBUTING.md) before submitting a PR — it explains the one-line description style, how to pick the right row/topic cell, and the quality bar for inclusion. Thank you to the community for supporting the list's growth 🚀
 
-## Want to receive recurrent updates on this repo and other advancements?
+## Want to receive recurring updates on this repo and other advancements
 
 <table>
   <tr>
@@ -147,7 +146,7 @@ Please review our [CONTRIBUTING.md](./CONTRIBUTING.md) before submitting a PR �
   />
 </picture>
 
-# Main Content
+## Main Content
 
 <a name="trending"></a>
 ## ⭐ Trending / What's New
@@ -1044,7 +1043,7 @@ Please review our [CONTRIBUTING.md](./CONTRIBUTING.md) before submitting a PR �
 
 - ⭐ 🎥 🆓 [**Intro to LLMs**](https://www.youtube.com/watch?v=zjkBMFhNj_g) — Andrej Karpathy. The reference "how LLMs work" talk.
 - ⭐ 🎥 🆓 [**Let's build GPT: from scratch, in code**](https://www.youtube.com/watch?v=kCc8FmEb1nY) — Andrej Karpathy.
-- ⭐ 🎥 🆓 [**[1hr Talk] Intro to LLMs (Nov 2024)**](https://www.youtube.com/watch?v=7xTGNNLPyMI) — Karpathy updated "Deep Dive into LLMs".
+- ⭐ 🎥 🆓 [**1hr Talk: Intro to LLMs (Nov 2024)**](https://www.youtube.com/watch?v=7xTGNNLPyMI) — Karpathy updated "Deep Dive into LLMs".
 - 🎥 🆓 [**State of GPT**](https://www.youtube.com/watch?v=bZQun8Y4L2A) — Andrej Karpathy (Microsoft Build 2023).
 - 🎥 🆓 [**Stanford CS25: Transformers United**](https://web.stanford.edu/class/cs25/) — Full lecture series.
 
@@ -1258,10 +1257,10 @@ Please use one of the [issue templates](https://github.com/EthicalML/awesome-age
 
 ## Update cadence
 
-- **Weekly** — PR triage, broken-link fixes.
-- **Monthly** — Trending rotation, new-resource batches.
-- **Quarterly** — full thoroughness pass against the checklist in [NOTES.md](./NOTES.md).
+Weekly: PR triage and broken-link fixes. Monthly: trending rotation and new-resource batches. Quarterly: full thoroughness pass against the checklist in [NOTES.md](./NOTES.md).
 
+<!--lint disable awesome-license-->
 ## License
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/) — To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
+<!--lint enable awesome-license-->
