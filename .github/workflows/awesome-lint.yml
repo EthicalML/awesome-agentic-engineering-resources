@@ -34,8 +34,18 @@ jobs:
             # (description and topics). Those require repository settings to be updated,
             # not code changes, so we skip that specific check here.
             # All other lint errors still fail the build.
-            remaining_output=$(printf '%s\n' "$output" | grep -v 'remark-lint:awesome-github' | grep -v '^[[:space:]]*$')
-            if [ -n "$remaining_output" ]; then
+            diagnostics=$(printf '%s\n' "$output" | grep 'remark-lint:')
+            remaining_diagnostics=$(
+              printf '%s\n' "$diagnostics" \
+                | grep -v 'remark-lint:awesome-github'
+            )
+            if [ -z "$diagnostics" ]; then
+              echo "awesome-lint failed without recognizable remark-lint diagnostics."
+              exit 1
+            fi
+            if [ -n "$remaining_diagnostics" ]; then
+              echo "awesome-lint found non-ignored diagnostics:"
+              printf '%s\n' "$remaining_diagnostics"
               exit 1
             fi
           fi
