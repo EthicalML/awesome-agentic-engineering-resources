@@ -1124,6 +1124,20 @@ Please review our [CONTRIBUTING.md](./CONTRIBUTING.md) before submitting a PR �
 
 *Recurring podcasts with strong agentic & AI-engineering coverage.*
 
+- ⭐ 🎧 🆓 [**Latent Space**](https://www.latent.space/podcast) — swyx & Alessio. The AI-engineering podcast of record; guests include most major AI-lab engineers.
+- ⭐ 🎧 🆓 [**Practical AI**](https://changelog.com/practicalai) — Daniel Whitenack & Chris Benson. Long-running, practitioner-first.
+- 🎧 🆓 [**MLOps Community podcast**](https://mlops.community/podcast/) — Demetrios Brinkmann. Ops-side operationalisation case studies.
+- 🎧 🆓 [**Gradient Dissent**](https://wandb.ai/fully-connected/podcast) — Weights & Biases. Applied-ML interviews.
+- 🎧 🆓 [**The TWIML AI Podcast**](https://twimlai.com/podcast/twimlai/) — Sam Charrington. Longest-running ML interview series.
+- 🎧 🆓 [**No Priors**](https://www.no-priors.com/) — Sarah Guo & Elad Gil. Founders / researchers.
+- 🎧 🆓 [**Cognitive Revolution**](https://www.cognitiverevolution.ai/) — Nathan Labenz. Weekly AI engineering + strategy.
+- 🎧 🆓 [**Dwarkesh Podcast**](https://www.dwarkeshpatel.com/podcast) — Dwarkesh Patel. Deep interviews with top researchers.
+- 🎧 🆓 [**Machine Learning Street Talk**](https://www.youtube.com/@MachineLearningStreetTalk) — Tim Scarfe. Technical deep-dives.
+- 🎧 🆓 [**Lex Fridman Podcast**](https://lexfridman.com/podcast/) — Long-form interviews with AI-lab CEOs and researchers.
+- 🎧 🆓 [**Unsupervised Learning**](https://unsupervisedlearning.com/) — Redpoint. AI-founder / operator conversations.
+- 🎧 🆓 [**Interconnects**](https://www.interconnects.ai/podcast) — Nathan Lambert. RLHF / post-training focus.
+- 🎧 🆓 [**Pragmatic Engineer**](https://newsletter.pragmaticengineer.com/podcast) — Gergely Orosz. AI-engineering org/hiring coverage.
+
 <a name="newsletters"></a>
 ## 📰 Newsletters
 
