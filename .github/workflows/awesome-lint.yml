@@ -34,13 +34,15 @@ jobs:
             # (description and topics). Those require repository settings to be updated,
             # not code changes, so we skip that specific check here.
             # All other lint errors still fail the build.
-            remaining_output=$(
-              printf '%s\n' "$output" \
-                | grep -v 'remark-lint:awesome-github' \
-                | grep -vE '^[[:space:]]*[0-9]+ errors?[[:space:]]*$' \
-                | grep -vE '^[[:space:]]*$'
+            diagnostics=$(printf '%s\n' "$output" | grep 'remark-lint:')
+            remaining_diagnostics=$(
+              printf '%s\n' "$diagnostics" \
+                | grep -v 'remark-lint:awesome-github'
             )
-            if [ -n "$remaining_output" ]; then
+            if [ -z "$diagnostics" ]; then
+              exit 1
+            fi
+            if [ -n "$remaining_diagnostics" ]; then
               exit 1
             fi
           fi
