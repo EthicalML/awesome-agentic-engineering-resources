@@ -1,0 +1,28 @@
+name: "⭐ Trending nomination"
+description: Nominate something for the pinned "Trending / What's New" section at the top of the list.
+title: "[Trending] <title>"
+labels: ["trending", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        The **Trending** section rotates. To qualify, a resource should be (a) published/updated in the last ~3 months and (b) already cited by at least one canonical author/org in the space.
+  - type: input
+    id: title
+    attributes:
+      label: Title
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: URL
+    validations:
+      required: true
+  - type: textarea
+    id: why_now
+    attributes:
+      label: Why now?
+      description: What makes this timely, and who has already cited/amplified it?
+    validations:
+      required: true

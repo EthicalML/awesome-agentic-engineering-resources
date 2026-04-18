@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Ask a question / start a discussion
+    url: https://github.com/EthicalML/awesome-agentic-engineering-resources/discussions
+    about: For open-ended questions, curation debates, or suggestions that aren't a specific resource.

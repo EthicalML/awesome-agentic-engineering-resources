@@ -1,0 +1,108 @@
+name: "📚 Resource suggestion"
+description: Suggest a new article, book, course, paper, tutorial, talk, podcast, newsletter, benchmark, or reference implementation.
+title: "[Resource] <title> — <one-line description>"
+labels: ["resource-suggestion", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for contributing! Please read the [CONTRIBUTING guide](../blob/main/CONTRIBUTING.md) first — tools belong in the sibling lists, not here.
+  - type: input
+    id: title
+    attributes:
+      label: Title
+      placeholder: "e.g., Building effective agents"
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Canonical URL
+      placeholder: "https://…"
+    validations:
+      required: true
+  - type: input
+    id: author
+    attributes:
+      label: Author / organisation
+      placeholder: "Anthropic / Chip Huyen / …"
+    validations:
+      required: true
+  - type: dropdown
+    id: resource_type
+    attributes:
+      label: Resource type (row)
+      options:
+        - Trending / What's New
+        - Core & Foundations
+        - Milestones Timeline
+        - Communities
+        - Courses
+        - Books
+        - Articles & Essays
+        - Tutorials & Cookbooks
+        - Playbooks & Design-Pattern Catalogs
+        - Papers & Research
+        - Benchmarks & Leaderboards
+        - Reference Implementations & Case Studies
+        - Talks, Workshops & Conferences
+        - Podcasts
+        - Newsletters
+        - Governance, Safety & Responsible AI
+        - Product, UX & Economics of AI
+        - Teams, Hiring & Org Design
+    validations:
+      required: true
+  - type: dropdown
+    id: topic
+    attributes:
+      label: Topic cell (column)
+      options:
+        - T1 Coding Agents & AI-Assisted Development
+        - T2 Spec-Driven Development & Context Engineering
+        - T3 Agent IDE Rules, Memory Files & Dev Workflows
+        - T4 SWE Benchmarks & Coding Evaluation
+        - T5 Autonomous Software Agents
+        - T6 LLM Application Architecture & System Design
+        - T7 Prompt Engineering
+        - T8 Retrieval-Augmented Generation (RAG)
+        - T9 Memory Systems & Long-Context
+        - T10 Tool Use, Function Calling & MCP
+        - T11 Orchestration, Planning & Design Patterns
+        - T12 Multi-Agent Systems & Coordination
+        - T13 Evaluation & Testing
+        - T14 Observability, Tracing & Debugging
+        - T15 Guardrails & Security
+        - T16 Safety, Alignment & Responsible AI
+        - T17 Fine-tuning, Post-training & RLHF
+        - T18 Inference, Serving, Cost & Latency
+        - T19 Voice, Multi-modal & Embodied Agents
+        - T20 Product, UX & Human-AI Interaction Design
+        - T21 Economics, Teams, Hiring & Org Design
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why is this canonical?
+      description: Provenance — which authoritative source (syllabus, survey, canonical author reading list) references this? Why does it deserve a slot?
+    validations:
+      required: true
+  - type: textarea
+    id: one_liner
+    attributes:
+      label: Proposed one-line description
+      description: What will a reader learn / why does it matter? No marketing language.
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checks
+      options:
+        - label: This is NOT a pure tool/library (those belong in sibling lists).
+          required: true
+        - label: The link resolves and points to the canonical URL (no tracking params).
+          required: true
+        - label: This resource is not already listed.
+          required: true

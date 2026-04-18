@@ -1,0 +1,28 @@
+name: "🔗 Broken or outdated link"
+description: Report a broken link, paywalled content, or stale resource.
+title: "[Broken link] <section> — <title>"
+labels: ["broken-link", "maintenance"]
+body:
+  - type: input
+    id: url
+    attributes:
+      label: URL that is broken or stale
+    validations:
+      required: true
+  - type: input
+    id: section
+    attributes:
+      label: Section / topic where it is listed
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: What's wrong?
+      description: 404, paywall, domain parked, moved to a new canonical URL, etc.
+    validations:
+      required: true
+  - type: input
+    id: replacement
+    attributes:
+      label: Suggested replacement URL (optional)
