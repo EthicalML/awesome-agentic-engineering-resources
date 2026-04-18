@@ -34,8 +34,8 @@ jobs:
             # (description and topics). Those require repository settings to be updated,
             # not code changes, so we skip that specific check here.
             # All other lint errors still fail the build.
-            non_github=$(printf '%s\n' "$output" | grep 'remark-lint:' | grep -v 'remark-lint:awesome-github')
-            if [ -n "$non_github" ] || ! printf '%s\n' "$output" | grep -q 'remark-lint:'; then
+            remaining_output=$(printf '%s\n' "$output" | grep -v 'remark-lint:awesome-github' | grep -v '^[[:space:]]*$')
+            if [ -n "$remaining_output" ]; then
               exit 1
             fi
           fi
