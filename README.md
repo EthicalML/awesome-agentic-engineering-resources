@@ -932,6 +932,98 @@ Please review our [CONTRIBUTING.md](./CONTRIBUTING.md) before submitting a PR �
 
 *Public production write-ups and canonical reference repositories that teach by example.*
 
+### T1 / T3 · Coding Agents & IDE Rules
+
+- ⭐ 🏗️ 🆓 [**Claude Code**](https://github.com/anthropics/claude-code) — Anthropic's reference agentic CLI.
+- 🏗️ 🆓 [**Aider**](https://github.com/Aider-AI/aider) — Reference terminal coding agent with detailed engineering blog.
+- 🏗️ 🆓 [**Cline**](https://github.com/cline/cline) — Open-source autonomous coding agent.
+- 🏗️ 🆓 [**OpenHands**](https://github.com/All-Hands-AI/OpenHands) — All Hands AI. Open-source autonomous SWE agent.
+
+### T2 · Spec-Driven Dev
+
+- 🏗️ 🆓 [**GitHub spec-kit**](https://github.com/github/spec-kit) — Reference spec-driven toolkit.
+
+### T5 · Autonomous SWE Agents
+
+- 🏗️ 🆓 [**SWE-agent**](https://github.com/princeton-nlp/SWE-agent) — Princeton NLP. Reference agent for SWE-bench.
+- 🏗️ 🆓 [**AutoCodeRover**](https://github.com/nus-apr/auto-code-rover) — NUS.
+- 🏗️ 🆓 [**Agentless**](https://github.com/OpenAutoCoder/Agentless) — Minimal agentless baseline that beat prior agents on SWE-bench Lite.
+
+### T6 · App Architecture
+
+- 🏗️ 🆓 [**Open Interpreter**](https://github.com/OpenInterpreter/open-interpreter) — Reference local code-execution agent.
+- 🏗️ 🆓 [**Quivr**](https://github.com/QuivrHQ/quivr) — Reference full-stack RAG assistant.
+- 🏗️ 🆓 [**LangChain templates**](https://github.com/langchain-ai/langchain/tree/master/templates) — Reference app scaffolds.
+
+### T8 · RAG
+
+- ⭐ 🏗️ 🆓 [**LlamaIndex**](https://github.com/run-llama/llama_index) — Reference RAG framework; docs double as case studies.
+- 🏗️ 🆓 [**RAGFlow**](https://github.com/infiniflow/ragflow) — Production-grade RAG reference.
+- 🏗️ 🆓 [**Verba**](https://github.com/weaviate/Verba) — Weaviate reference RAG app.
+- 🏗️ 🆓 [**GraphRAG**](https://github.com/microsoft/graphrag) — Microsoft Research.
+
+### T9 · Memory
+
+- 🏗️ 🆓 [**Letta (MemGPT)**](https://github.com/letta-ai/letta) — Reference agentic-memory implementation.
+- 🏗️ 🆓 [**Mem0**](https://github.com/mem0ai/mem0) — Reference memory layer.
+- 🏗️ 🆓 [**Zep**](https://github.com/getzep/zep) — Long-term memory store.
+
+### T10 · Tool Use & MCP
+
+- 🏗️ 🆓 [**awesome-mcp-servers**](https://github.com/punkpeye/awesome-mcp-servers) — Community catalogue of MCP server implementations.
+- 🏗️ 🆓 [**Anthropic MCP reference servers**](https://github.com/modelcontextprotocol/servers) — The canonical reference MCP servers.
+
+### T11 / T12 · Orchestration & Multi-Agent
+
+- 🏗️ 🆓 [**LangGraph**](https://github.com/langchain-ai/langgraph) — Reference graph-based orchestration.
+- 🏗️ 🆓 [**AutoGen**](https://github.com/microsoft/autogen) — Microsoft.
+- 🏗️ 🆓 [**CrewAI**](https://github.com/crewAIInc/crewAI) — Reference role-based multi-agent.
+- 🏗️ 🆓 [**Pydantic AI**](https://github.com/pydantic/pydantic-ai) — Type-safe agent framework.
+
+### T13 · Evaluation
+
+- 🏗️ 🆓 [**EleutherAI lm-evaluation-harness**](https://github.com/EleutherAI/lm-evaluation-harness) — Standard offline-eval harness.
+- 🏗️ 🆓 [**DeepEval**](https://github.com/confident-ai/deepeval) — Reference eval framework.
+- 🏗️ 🆓 [**RAGAS**](https://github.com/explodinggradients/ragas) — RAG-specific evaluation.
+
+### T14 · Observability
+
+- 🏗️ 🆓 [**Langfuse**](https://github.com/langfuse/langfuse) — Open-source LLM observability.
+- 🏗️ 🆓 [**Arize Phoenix**](https://github.com/Arize-ai/phoenix) — Open-source tracing + evals.
+- 🏗️ 🆓 [**OpenLLMetry**](https://github.com/traceloop/openllmetry) — OTel-based LLM instrumentation.
+
+### T15 · Guardrails & Security
+
+- 🏗️ 🆓 [**Guardrails AI**](https://github.com/guardrails-ai/guardrails) — Reference guardrails framework.
+- 🏗️ 🆓 [**NVIDIA NeMo Guardrails**](https://github.com/NVIDIA/NeMo-Guardrails) — Programmable guardrails.
+- 🏗️ 🆓 [**Rebuff**](https://github.com/protectai/rebuff) — Prompt-injection defence reference.
+
+### T17 · Fine-tuning
+
+- 🏗️ 🆓 [**Unsloth**](https://github.com/unslothai/unsloth) — Fast LoRA/QLoRA reference.
+- 🏗️ 🆓 [**Axolotl**](https://github.com/axolotl-ai-cloud/axolotl) — Reference fine-tuning framework.
+- 🏗️ 🆓 [**LLaMA-Factory**](https://github.com/hiyouga/LLaMA-Factory) — Unified fine-tuning toolkit.
+- 🏗️ 🆓 [**Hugging Face alignment-handbook**](https://github.com/huggingface/alignment-handbook) — Reference RLHF/DPO recipes.
+
+### T18 · Inference & Serving
+
+- ⭐ 🏗️ 🆓 [**vLLM**](https://github.com/vllm-project/vllm) — Reference high-throughput LLM serving.
+- 🏗️ 🆓 [**SGLang**](https://github.com/sgl-project/sglang) — Structured generation serving.
+- 🏗️ 🆓 [**llama.cpp**](https://github.com/ggerganov/llama.cpp) — Reference CPU/GPU local inference.
+- 🏗️ 🆓 [**TensorRT-LLM**](https://github.com/NVIDIA/TensorRT-LLM) — NVIDIA reference optimised serving.
+
+### T19 · Voice & Multimodal
+
+- 🏗️ 🆓 [**LiveKit Agents**](https://github.com/livekit/agents) — Voice-agent reference.
+- 🏗️ 🆓 [**Pipecat**](https://github.com/pipecat-ai/pipecat) — Daily's voice-agent framework.
+- 🏗️ 🆓 [**Ultravox**](https://github.com/fixie-ai/ultravox) — Real-time speech LM.
+
+### T20 · Product & UX
+
+- 🏗️ 🆓 [**Vercel AI SDK**](https://github.com/vercel/ai) — Reference AI-UI patterns and streaming.
+- 🏗️ 🆓 [**Open WebUI**](https://github.com/open-webui/open-webui) — Reference local chat UI.
+- 🏗️ 🆓 [**assistant-ui**](https://github.com/assistant-ui/assistant-ui) — Reference React components for AI chat.
+
 <a name="talks"></a>
 ## 🎥 Talks, Workshops & Conferences
 
