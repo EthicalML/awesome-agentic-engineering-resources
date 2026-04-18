@@ -862,6 +862,71 @@ Please review our [CONTRIBUTING.md](./CONTRIBUTING.md) before submitting a PR �
 
 *Public benchmarks and leaderboards for coding agents, tool use, RAG, evaluation, and more.*
 
+### T1 / T4 · Coding Agents & SWE Benchmarks
+
+- ⭐ 🧪 🆓 [**SWE-bench**](https://www.swebench.com/) — Real-world GitHub-issue resolution benchmark; Verified subset is the de-facto industry standard.
+- 🧪 🆓 [**Terminal-Bench**](https://www.tbench.ai/) — Stanford / Laude. Long-horizon terminal task benchmark.
+- 🧪 🆓 [**LiveCodeBench**](https://livecodebench.github.io/) — Rolling contamination-free coding benchmark.
+- 🧪 🆓 [**BigCodeBench**](https://bigcode-bench.github.io/) — Practical programming with diverse function calls.
+- 🧪 🆓 [**HumanEval+ / EvalPlus**](https://evalplus.github.io/) — Strengthened HumanEval.
+- 🧪 🆓 [**MLE-bench**](https://github.com/openai/mle-bench) — OpenAI. Kaggle-style ML engineering benchmark.
+
+### T5 · Autonomous Agents
+
+- 🧪 🆓 [**GAIA**](https://huggingface.co/gaia-benchmark) — General AI Assistants benchmark.
+- 🧪 🆓 [**AgentBench**](https://llmbench.ai/agent) — Tsinghua. Broad agent capability benchmark.
+- 🧪 🆓 [**WebArena**](https://webarena.dev/) / [**VisualWebArena**](https://jykoh.com/vwa) — Web-navigation agents.
+- 🧪 🆓 [**OSWorld**](https://os-world.github.io/) — Desktop OS-controlling agents.
+- 🧪 🆓 [**MLE-bench**](https://github.com/openai/mle-bench) — ML-engineering agents.
+
+### T8 · RAG
+
+- 🧪 🆓 [**RAGAS**](https://docs.ragas.io/) — Framework and leaderboard for RAG eval.
+- 🧪 🆓 [**MTEB**](https://huggingface.co/spaces/mteb/leaderboard) — Massive Text Embedding Benchmark.
+- 🧪 🆓 [**BEIR**](https://github.com/beir-cellar/beir) — Zero-shot IR benchmark.
+- 🧪 🆓 [**ARES**](https://github.com/stanford-futuredata/ARES) — Automated RAG evaluation.
+
+### T10 · Tool Use & Function Calling
+
+- 🧪 🆓 [**Berkeley Function-Calling Leaderboard (BFCL)**](https://gorilla.cs.berkeley.edu/leaderboard.html) — UC Berkeley.
+- 🧪 🆓 [**τ-bench**](https://github.com/sierra-research/tau-bench) — Sierra. Tool-agent-user interaction benchmark.
+- 🧪 🆓 [**API-Bank**](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/api-bank) — Alibaba. Tool-augmented assistants.
+
+### T11 · Orchestration / T12 · Multi-Agent
+
+- 🧪 🆓 [**AgentBench**](https://llmbench.ai/agent) — General agent-capability.
+- 🧪 🆓 [**AgentBoard**](https://hkust-nlp.github.io/agentboard/) — HKUST. Analytic, fine-grained agent eval.
+
+### T13 · Evaluation
+
+- 🧪 🆓 [**HELM**](https://crfm.stanford.edu/helm/) — Stanford CRFM. Holistic evaluation.
+- 🧪 🆓 [**Chatbot Arena / LMSYS Arena**](https://lmarena.ai/) — Human-preference leaderboard.
+- 🧪 🆓 [**MMLU-Pro**](https://github.com/TIGER-AI-Lab/MMLU-Pro) — Harder MMLU.
+- 🧪 🆓 [**MT-Bench**](https://huggingface.co/spaces/lmsys/mt-bench) — LLM-as-judge multi-turn.
+
+### T15 · Guardrails & Security
+
+- 🧪 🆓 [**AdvBench / HarmBench**](https://www.harmbench.org/) — CAIS. Adversarial / red-team benchmarks.
+- 🧪 🆓 [**JailbreakBench**](https://jailbreakbench.github.io/) — Chao et al.
+- 🧪 🆓 [**PurpleLlama CyberSecEval**](https://meta-llama.github.io/PurpleLlama/) — Meta.
+
+### T16 · Safety & Alignment
+
+- 🧪 🆓 [**TruthfulQA**](https://github.com/sylinrl/TruthfulQA) — Truthfulness benchmark.
+- 🧪 🆓 [**BBQ**](https://github.com/nyu-mll/BBQ) — Bias benchmark.
+- 🧪 🆓 [**ToxiGen**](https://github.com/microsoft/TOXIGEN) — Toxicity.
+
+### T18 · Inference
+
+- 🧪 🆓 [**MLPerf Inference**](https://mlcommons.org/benchmarks/inference/) — MLCommons. Industry-standard serving benchmark.
+- 🧪 🆓 [**LLMPerf**](https://github.com/ray-project/llmperf) — Anyscale. Throughput/latency tool.
+
+### T19 · Voice & Multimodal
+
+- 🧪 🆓 [**MMMU**](https://mmmu-benchmark.github.io/) — Multimodal multidiscipline benchmark.
+- 🧪 🆓 [**VideoMME**](https://video-mme.github.io/) — Video understanding.
+- 🧪 🆓 [**Dynabench speech**](https://dynabench.org/) — Live speech-model benchmarks.
+
 <a name="references"></a>
 ## 🏗️ Reference Implementations & Case Studies
 
