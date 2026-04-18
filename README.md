@@ -1029,6 +1029,96 @@ Please review our [CONTRIBUTING.md](./CONTRIBUTING.md) before submitting a PR �
 
 *Recorded talks, workshops, and conference series worth watching.*
 
+### Conference series
+
+- ⭐ 🎥 🆓 [**AI Engineer Summit / World's Fair**](https://www.ai.engineer/) — The definitive practitioner conference; full talks on YouTube.
+- 🎥 🆓 [**NeurIPS / ICML / ICLR**](https://neurips.cc/) — Core ML research venues; most papers include recorded talks.
+- 🎥 🆓 [**COLM**](https://colmweb.org/) — Conference on Language Modeling. New dedicated LM venue.
+- 🎥 🆓 [**MLSys**](https://mlsys.org/) — Core ML-systems conference (inference, serving).
+- 🎥 🆓 [**LlamaCon**](https://www.llama.com/events/llamacon/) — Meta's open-source LLM conference.
+
+### Canonical talks
+
+- ⭐ 🎥 🆓 [**Intro to LLMs**](https://www.youtube.com/watch?v=zjkBMFhNj_g) — Andrej Karpathy. The reference "how LLMs work" talk.
+- ⭐ 🎥 🆓 [**Let's build GPT: from scratch, in code**](https://www.youtube.com/watch?v=kCc8FmEb1nY) — Andrej Karpathy.
+- ⭐ 🎥 🆓 [**[1hr Talk] Intro to LLMs (Nov 2024)**](https://www.youtube.com/watch?v=7xTGNNLPyMI) — Karpathy updated "Deep Dive into LLMs".
+- 🎥 🆓 [**State of GPT**](https://www.youtube.com/watch?v=bZQun8Y4L2A) — Andrej Karpathy (Microsoft Build 2023).
+- 🎥 🆓 [**Stanford CS25: Transformers United**](https://web.stanford.edu/class/cs25/) — Full lecture series.
+
+### T1 · Coding Agents
+
+- 🎥 🆓 [**Mastering Claude Code**](https://www.youtube.com/watch?v=r-ML9gZZBVo) — Anthropic (Boris Cherny).
+- 🎥 🆓 [**Cursor: Building the AI-first IDE**](https://www.youtube.com/@cursor-ai) — Cursor team channel.
+- 🎥 🆓 [**The future of AI coding**](https://www.youtube.com/@latent-space) — Latent Space talk archives.
+
+### T4 · SWE Benchmarks
+
+- 🎥 🆓 [**SWE-bench at NeurIPS**](https://www.youtube.com/watch?v=6tPnmMpuqcc) — Carlos Jimenez.
+
+### T6 · App Architecture
+
+- 🎥 🆓 [**State of AI Engineering**](https://www.youtube.com/@latent-space) — Latent Space keynotes.
+- 🎥 🆓 [**Emerging architectures for LLM applications**](https://a16z.com/emerging-architectures-for-llm-applications/) — a16z (video + post).
+
+### T7 · Prompt Engineering
+
+- 🎥 🆓 [**Anthropic: Prompt Engineering for Business Performance**](https://www.youtube.com/watch?v=T9aRN5JkmL8) — Anthropic.
+- 🎥 🆓 [**ChatGPT Prompt Engineering for Developers**](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) — Andrew Ng + OpenAI.
+
+### T8 · RAG
+
+- 🎥 🆓 [**Systematically improving RAG applications**](https://www.youtube.com/watch?v=RrDBV9W4zTc) — Jason Liu.
+- 🎥 🆓 [**RAG at scale**](https://www.youtube.com/@LangChain) — LangChain channel series.
+
+### T10 · MCP
+
+- 🎥 🆓 [**Model Context Protocol deep dive**](https://www.youtube.com/@AnthropicAI) — Anthropic.
+- 🎥 🆓 [**MCP at AI Engineer Summit**](https://www.youtube.com/@aiDotEngineer) — AI Engineer.
+
+### T11 / T12 · Orchestration & Multi-Agent
+
+- 🎥 🆓 [**Andrew Ng: What's next for AI agentic workflows**](https://www.youtube.com/watch?v=sal78ACtGTc) — Sequoia AI Ascent 2024.
+- 🎥 🆓 [**LangGraph: multi-agent workflows**](https://www.youtube.com/@LangChain) — LangChain.
+
+### T13 · Evaluation
+
+- 🎥 🆓 [**Evaluating LLM-based applications**](https://www.youtube.com/watch?v=eLXF0VojuSs) — Josh Tobin (DBRX Summit).
+- 🎥 🆓 [**LLM Evals: MT-Bench and Chatbot Arena**](https://www.youtube.com/@LMSYSorg) — LMSYS.
+
+### T14 · Observability
+
+- 🎥 🆓 [**OpenTelemetry for LLMs**](https://www.youtube.com/results?search_query=opentelemetry+llm) — KubeCon / OTel community talks.
+
+### T15 / T16 · Security & Safety
+
+- 🎥 🆓 [**Simon Willison on prompt injection**](https://simonwillison.net/tags/prompt-injection/) — Talks + essays hub.
+- 🎥 🆓 [**Anthropic AI safety research**](https://www.youtube.com/@AnthropicAI) — Anthropic channel.
+
+### T17 · Fine-tuning
+
+- 🎥 🆓 [**Let's reproduce GPT-2 / build the GPT tokenizer**](https://www.youtube.com/@AndrejKarpathy) — Karpathy channel.
+- 🎥 🆓 [**Fine-tuning workshop**](https://www.youtube.com/@parlance-labs) — Hamel Husain channel.
+
+### T18 · Inference
+
+- 🎥 🆓 [**vLLM: high-throughput LLM serving**](https://www.youtube.com/@anyscale) — Anyscale / UC Berkeley talks.
+- 🎥 🆓 [**CUDA Mode lectures**](https://github.com/cuda-mode/lectures) — Community GPU/kernel series.
+
+### T19 · Voice & Multimodal
+
+- 🎥 🆓 [**OpenAI Realtime API demos**](https://www.youtube.com/@OpenAI) — OpenAI.
+- 🎥 🆓 [**LiveKit voice-agent talks**](https://www.youtube.com/@livekitio) — LiveKit.
+
+### T20 · Product & UX
+
+- 🎥 🆓 [**AI UX: the next frontier**](https://www.youtube.com/@nngroup) — NNGroup.
+- 🎥 🆓 [**Linus Lee: tools for thought**](https://thesephist.com/) — Talks archive.
+
+### T21 · Economics & Teams
+
+- 🎥 🆓 [**a16z AI portfolio talks**](https://www.youtube.com/@a16z) — a16z.
+- 🎥 🆓 [**The Pragmatic Engineer on AI teams**](https://www.youtube.com/@pragmaticengineer) — Gergely Orosz.
+
 <a name="podcasts"></a>
 ## 🎧 Podcasts
 
