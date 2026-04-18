@@ -714,6 +714,149 @@ Please review our [CONTRIBUTING.md](./CONTRIBUTING.md) before submitting a PR �
 
 *Foundational papers, surveys, and benchmark papers. Includes a dated milestone-papers table.*
 
+### Milestone Papers
+
+| Date | Keywords | Institution | Paper |
+|---|---|---|---|
+| 2017-06 | Transformer | Google | [Attention Is All You Need](https://arxiv.org/abs/1706.03762) |
+| 2018-10 | BERT | Google | [BERT: Pre-training of Deep Bidirectional Transformers](https://arxiv.org/abs/1810.04805) |
+| 2020-05 | GPT-3, ICL | OpenAI | [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165) |
+| 2020-05 | RAG | Meta | [RAG for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401) |
+| 2021-06 | LoRA | Microsoft | [LoRA: Low-Rank Adaptation of LLMs](https://arxiv.org/abs/2106.09685) |
+| 2022-01 | CoT | Google | [Chain-of-Thought Prompting](https://arxiv.org/abs/2201.11903) |
+| 2022-03 | InstructGPT / RLHF | OpenAI | [Training LMs to follow instructions with human feedback](https://arxiv.org/abs/2203.02155) |
+| 2022-10 | ReAct | Princeton / Google | [ReAct: Synergizing Reasoning and Acting](https://arxiv.org/abs/2210.03629) |
+| 2022-12 | Constitutional AI | Anthropic | [Constitutional AI](https://arxiv.org/abs/2212.08073) |
+| 2023-02 | Toolformer | Meta | [Toolformer: LMs Can Teach Themselves to Use Tools](https://arxiv.org/abs/2302.04761) |
+| 2023-03 | Reflexion | Northeastern | [Reflexion](https://arxiv.org/abs/2303.11366) |
+| 2023-03 | Self-Refine | CMU | [Self-Refine: Iterative Refinement](https://arxiv.org/abs/2303.17651) |
+| 2023-05 | Tree of Thoughts | Princeton | [Tree of Thoughts](https://arxiv.org/abs/2305.10601) |
+| 2023-05 | QLoRA | UW | [QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/abs/2305.14314) |
+| 2023-05 | Voyager | NVIDIA / Caltech | [Voyager: Open-Ended Embodied Agent](https://arxiv.org/abs/2305.16291) |
+| 2023-05 | DPO | Stanford | [DPO: Your LM Is Secretly a Reward Model](https://arxiv.org/abs/2305.18290) |
+| 2023-06 | LLM-as-Judge | UC Berkeley | [Judging LLM-as-a-Judge](https://arxiv.org/abs/2306.05685) |
+| 2023-07 | Generative Agents | Stanford / Google | [Generative Agents: Interactive Simulacra](https://arxiv.org/abs/2304.03442) |
+| 2023-07 | Lost in the Middle | Stanford | [Lost in the Middle](https://arxiv.org/abs/2307.03172) |
+| 2023-07 | GCG | CMU | [Universal and Transferable Adversarial Attacks](https://arxiv.org/abs/2307.15043) |
+| 2023-09 | Agent survey | Fudan | [The Rise and Potential of LLM-based Agents](https://arxiv.org/abs/2309.07864) |
+| 2023-10 | SWE-bench | Princeton | [SWE-bench: Can LMs Resolve Real-World Issues?](https://arxiv.org/abs/2310.06770) |
+| 2023-10 | AutoGen | Microsoft | [AutoGen: Enabling Multi-Agent Conversations](https://arxiv.org/abs/2308.08155) |
+| 2023-11 | GAIA | Meta / HF | [GAIA: Benchmark for General AI Assistants](https://arxiv.org/abs/2311.12983) |
+| 2023-12 | RAG Survey | Tongji | [RAG for LLMs: A Survey](https://arxiv.org/abs/2312.10997) |
+| 2024-02 | SWE-agent | Princeton | [SWE-agent: Agent-Computer Interfaces](https://arxiv.org/abs/2405.15793) |
+| 2024-05 | Many-shot jailbreaking | Anthropic | [Many-shot Jailbreaking](https://www.anthropic.com/research/many-shot-jailbreaking) |
+| 2024-06 | Prompt Report | Maryland | [The Prompt Report](https://arxiv.org/abs/2406.06608) |
+| 2024-06 | τ-bench | Sierra | [τ-bench: Tool-Agent-User benchmark](https://arxiv.org/abs/2406.12045) |
+| 2024-09 | o1 / reasoning | OpenAI | [Learning to Reason with LLMs](https://openai.com/index/learning-to-reason-with-llms/) |
+
+### T1 · Coding Agents & T4 · SWE Benchmarks
+
+- 📄 🆓 [**SWE-bench: Can LMs Resolve Real-World GitHub Issues?**](https://arxiv.org/abs/2310.06770) — Jimenez et al.
+- 📄 🆓 [**SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering**](https://arxiv.org/abs/2405.15793) — Yang et al.
+- 📄 🆓 [**AutoCodeRover: Autonomous Program Improvement**](https://arxiv.org/abs/2404.05427) — Zhang et al.
+- 📄 🆓 [**LiveCodeBench**](https://arxiv.org/abs/2403.07974) — Jain et al.
+- 📄 🆓 [**BigCodeBench**](https://arxiv.org/abs/2406.15877) — Zhuo et al.
+
+### T5 · Autonomous SWE Agents
+
+- 📄 🆓 [**Voyager: An Open-Ended Embodied Agent with LLMs**](https://arxiv.org/abs/2305.16291) — Wang et al.
+- 📄 🆓 [**Agentless: Demystifying LLM-based Software Engineering Agents**](https://arxiv.org/abs/2407.01489) — Xia et al.
+- 📄 🆓 [**OpenHands / OpenDevin**](https://arxiv.org/abs/2407.16741) — All Hands AI.
+
+### T6 · App Architecture
+
+- 📄 🆓 [**Emerging Architectures for LLM Applications**](https://a16z.com/emerging-architectures-for-llm-applications/) — a16z.
+- 📄 🆓 [**The Prompt Report**](https://arxiv.org/abs/2406.06608) — Schulhoff et al.
+
+### T7 · Prompt Engineering
+
+- 📄 🆓 [**Chain-of-Thought Prompting Elicits Reasoning**](https://arxiv.org/abs/2201.11903) — Wei et al.
+- 📄 🆓 [**Tree of Thoughts**](https://arxiv.org/abs/2305.10601) — Yao et al.
+- 📄 🆓 [**Self-Consistency Improves CoT**](https://arxiv.org/abs/2203.11171) — Wang et al.
+- 📄 🆓 [**Large Language Models are Zero-Shot Reasoners**](https://arxiv.org/abs/2205.11916) — Kojima et al. ("Let's think step by step").
+
+### T8 · RAG
+
+- 📄 🆓 [**Retrieval-Augmented Generation for Knowledge-Intensive NLP**](https://arxiv.org/abs/2005.11401) — Lewis et al.
+- 📄 🆓 [**RAG for LLMs: A Survey**](https://arxiv.org/abs/2312.10997) — Gao et al.
+- 📄 🆓 [**Self-RAG: Learning to Retrieve, Generate, and Critique**](https://arxiv.org/abs/2310.11511) — Asai et al.
+- 📄 🆓 [**Precise Zero-Shot Dense Retrieval without Relevance Labels (HyDE)**](https://arxiv.org/abs/2212.10496) — Gao et al.
+- 📄 🆓 [**Dense Passage Retrieval**](https://arxiv.org/abs/2004.04906) — Karpukhin et al.
+
+### T9 · Memory
+
+- 📄 🆓 [**MemGPT: Towards LLMs as Operating Systems**](https://arxiv.org/abs/2310.08560) — Packer et al.
+- 📄 🆓 [**Lost in the Middle**](https://arxiv.org/abs/2307.03172) — Liu et al.
+- 📄 🆓 [**Generative Agents: Interactive Simulacra of Human Behavior**](https://arxiv.org/abs/2304.03442) — Park et al.
+
+### T10 · Tool Use & MCP
+
+- 📄 🆓 [**Toolformer**](https://arxiv.org/abs/2302.04761) — Schick et al.
+- 📄 🆓 [**Gorilla: LLM Connected with Massive APIs**](https://arxiv.org/abs/2305.15334) — Patil et al.
+- 📄 🆓 [**MRKL Systems**](https://arxiv.org/abs/2205.00445) — Karpas et al.
+- 📄 🆓 [**Berkeley Function-Calling Leaderboard**](https://gorilla.cs.berkeley.edu/blogs/8_berkeley_function_calling_leaderboard.html) — UC Berkeley.
+
+### T11 · Orchestration & Patterns
+
+- 📄 🆓 [**ReAct: Synergizing Reasoning and Acting**](https://arxiv.org/abs/2210.03629) — Yao et al.
+- 📄 🆓 [**Reflexion: Language Agents with Verbal Reinforcement Learning**](https://arxiv.org/abs/2303.11366) — Shinn et al.
+- 📄 🆓 [**Self-Refine: Iterative Refinement with Self-Feedback**](https://arxiv.org/abs/2303.17651) — Madaan et al.
+- 📄 🆓 [**The Rise and Potential of LLM-based Agents: A Survey**](https://arxiv.org/abs/2309.07864) — Xi et al.
+
+### T12 · Multi-Agent
+
+- 📄 🆓 [**AutoGen**](https://arxiv.org/abs/2308.08155) — Wu et al.
+- 📄 🆓 [**CAMEL: Communicative Agents for Mind Exploration**](https://arxiv.org/abs/2303.17760) — Li et al.
+- 📄 🆓 [**A Survey on LLM-based Autonomous Agents**](https://arxiv.org/abs/2308.11432) — Wang et al.
+- 📄 🆓 [**MetaGPT**](https://arxiv.org/abs/2308.00352) — Hong et al.
+
+### T13 · Evaluation
+
+- 📄 🆓 [**Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena**](https://arxiv.org/abs/2306.05685) — Zheng et al.
+- 📄 🆓 [**HELM: Holistic Evaluation of Language Models**](https://arxiv.org/abs/2211.09110) — Liang et al.
+- 📄 🆓 [**Who Validates the Validators?**](https://arxiv.org/abs/2404.12272) — Shankar et al.
+
+### T14 · Observability
+
+- 📄 🆓 [**OpenTelemetry Semantic Conventions for Generative AI**](https://opentelemetry.io/docs/specs/semconv/gen-ai/) — OTel.
+
+### T15 · Guardrails & Security
+
+- 📄 🆓 [**Universal and Transferable Adversarial Attacks on Aligned LLMs (GCG)**](https://arxiv.org/abs/2307.15043) — Zou et al.
+- 📄 🆓 [**Many-shot Jailbreaking**](https://www.anthropic.com/research/many-shot-jailbreaking) — Anthropic.
+- 📄 🆓 [**Not what you've signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection**](https://arxiv.org/abs/2302.12173) — Greshake et al.
+
+### T16 · Safety & Alignment
+
+- 📄 🆓 [**Constitutional AI**](https://arxiv.org/abs/2212.08073) — Bai et al.
+- 📄 🆓 [**Scalable Agent Alignment via Reward Modeling**](https://arxiv.org/abs/1811.07871) — Leike et al.
+- 📄 🆓 [**Concrete Problems in AI Safety**](https://arxiv.org/abs/1606.06565) — Amodei et al.
+
+### T17 · Fine-tuning & Post-training
+
+- 📄 🆓 [**LoRA: Low-Rank Adaptation**](https://arxiv.org/abs/2106.09685) — Hu et al.
+- 📄 🆓 [**QLoRA**](https://arxiv.org/abs/2305.14314) — Dettmers et al.
+- 📄 🆓 [**Direct Preference Optimization (DPO)**](https://arxiv.org/abs/2305.18290) — Rafailov et al.
+- 📄 🆓 [**Training LMs to follow instructions with human feedback (InstructGPT)**](https://arxiv.org/abs/2203.02155) — Ouyang et al.
+- 📄 🆓 [**Constitutional AI / RLAIF**](https://arxiv.org/abs/2212.08073) — Bai et al.
+
+### T18 · Inference & Serving
+
+- 📄 🆓 [**Efficient Memory Management for LLM Serving with PagedAttention (vLLM)**](https://arxiv.org/abs/2309.06180) — Kwon et al.
+- 📄 🆓 [**FlashAttention**](https://arxiv.org/abs/2205.14135) — Dao et al.
+- 📄 🆓 [**SGLang: Efficient Execution of Structured Language Model Programs**](https://arxiv.org/abs/2312.07104) — Zheng et al.
+- 📄 🆓 [**Fast Inference from Transformers via Speculative Decoding**](https://arxiv.org/abs/2211.17192) — Leviathan et al.
+
+### T19 · Voice & Multimodal
+
+- 📄 🆓 [**Robust Speech Recognition via Large-Scale Weak Supervision (Whisper)**](https://arxiv.org/abs/2212.04356) — Radford et al.
+- 📄 🆓 [**Moshi**](https://kyutai.org/Moshi.pdf) — Kyutai.
+- 📄 🆓 [**Seamless: Multilingual Expressive and Streaming Speech Translation**](https://arxiv.org/abs/2312.05187) — Meta.
+
+### T20 · Product & UX
+
+- 📄 🆓 [**Guidelines for Human-AI Interaction**](https://www.microsoft.com/en-us/research/publication/guidelines-for-human-ai-interaction/) — Amershi et al. (Microsoft Research, CHI 2019).
+
 <a name="benchmarks"></a>
 ## 🧪 Benchmarks & Leaderboards
 
