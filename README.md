@@ -50,3 +50,53 @@ Resources are tagged with icons so you can scan and filter at a glance:
 | [🎥 Talks & Conferences](#talks) | [🎧 Podcasts](#podcasts) | [📰 Newsletters](#newsletters) |
 | [🛡️ Governance, Safety & Responsible AI](#governance) | [🎨 Product, UX & Economics of AI](#product) | [🧑‍🤝‍🧑 Teams, Hiring & Org Design](#teams) |
 
+## Topic Coverage Matrix
+
+Resources are organised as a **matrix**: the top-level sections above (rows) are resource *types*, and each section is sub-divided by *topic*. The 21 topics, `T1`–`T21`, are shared across sections. This lets you read vertically ("what papers exist on RAG?") or horizontally ("where do I find resources on Coding Agents?").
+
+**Topics:**
+
+| # | Topic |
+|---|---|
+| T1 | Coding Agents & AI-Assisted Development (Copilot, Cursor, Claude Code, Aider, Cline, Windsurf, Codex) |
+| T2 | Spec-Driven Development & Context Engineering (AGENTS.md, spec-kit, rules files) |
+| T3 | Agent IDE Rules, Memory Files & Developer Workflows |
+| T4 | SWE Benchmarks & Coding Evaluation |
+| T5 | Autonomous Software Agents & Long-Horizon Engineering Tasks |
+| T6 | LLM Application Architecture & System Design |
+| T7 | Prompt Engineering |
+| T8 | Retrieval-Augmented Generation (RAG) |
+| T9 | Memory Systems & Long-Context |
+| T10 | Tool Use, Function Calling & MCP |
+| T11 | Orchestration, Planning & Design Patterns |
+| T12 | Multi-Agent Systems & Coordination |
+| T13 | Evaluation & Testing |
+| T14 | Observability, Tracing & Debugging |
+| T15 | Guardrails & Security (prompt injection, jailbreaks, red-teaming) |
+| T16 | Safety, Alignment & Responsible AI |
+| T17 | Fine-tuning, Post-training, RLHF & Reasoning Training |
+| T18 | Inference, Serving, Cost & Latency |
+| T19 | Voice, Multi-modal & Embodied Agents |
+| T20 | Product, UX & Human-AI Interaction Design |
+| T21 | Economics, Teams, Hiring & Org Design |
+
+**Coverage** (`●` = populated, `○` = opportunistic / partial, `—` = out of scope for that row):
+
+| Row \ Topic | T1 | T2 | T3 | T4 | T5 | T6 | T7 | T8 | T9 | T10 | T11 | T12 | T13 | T14 | T15 | T16 | T17 | T18 | T19 | T20 | T21 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Core & Foundations | ● | ● | ○ | ○ | ○ | ● | ● | ● | ○ | ● | ● | ○ | ● | ○ | ○ | ○ | ○ | ○ | ○ | ○ | ○ |
+| Communities | ● | ○ | ○ | ○ | ○ | ● | ● | ● | ○ | ● | ● | ○ | ● | ● | ○ | ● | ● | ● | ○ | ● | ● |
+| Courses | ● | ○ | ○ | ● | ○ | ● | ● | ● | ○ | ● | ● | ● | ● | ● | ● | ● | ● | ● | ○ | ○ | ○ |
+| Books | ● | ○ | ○ | — | ○ | ● | ● | ● | ○ | ● | ● | ○ | ● | ○ | ● | ● | ● | ● | ○ | ● | ● |
+| Articles & Essays | ● | ● | ● | ● | ● | ● | ● | ● | ● | ● | ● | ● | ● | ● | ● | ● | ● | ● | ● | ● | ● |
+| Tutorials & Cookbooks | ● | ● | ● | ○ | ● | ● | ● | ● | ● | ● | ● | ● | ● | ● | ● | ○ | ● | ● | ● | ○ | — |
+| Playbooks & Patterns | ● | ● | ● | ● | ● | ● | ● | ● | ● | ● | ● | ● | ● | ● | ● | ● | ○ | ● | ○ | ● | ● |
+| Papers & Research | ● | ○ | — | ● | ● | ● | ● | ● | ● | ● | ● | ● | ● | ● | ● | ● | ● | ● | ● | ● | ○ |
+| Benchmarks | ● | — | — | ● | ● | ○ | ○ | ● | ○ | ● | ● | ● | ● | ○ | ● | ● | ○ | ● | ● | ○ | — |
+| Reference Impls | ● | ● | ● | ● | ● | ● | ○ | ● | ● | ● | ● | ● | ● | ● | ● | ○ | ● | ● | ● | ● | ● |
+| Talks & Conferences | ● | ● | ○ | ● | ● | ● | ● | ● | ● | ● | ● | ● | ● | ● | ● | ● | ● | ● | ● | ● | ● |
+| Podcasts | ● | ○ | ○ | ○ | ● | ● | ● | ● | ○ | ● | ● | ● | ● | ● | ● | ● | ● | ● | ○ | ● | ● |
+| Newsletters | ● | ○ | ○ | ○ | ○ | ● | ● | ● | ○ | ● | ● | ○ | ● | ● | ● | ● | ● | ● | ○ | ● | ● |
+
+The **Trending / What's New**, **Milestones Timeline**, **Governance & Responsible AI**, **Product / UX / Economics**, and **Teams, Hiring & Org Design** sections collapse across topics and are presented as curated lists rather than matrix cells.
+
