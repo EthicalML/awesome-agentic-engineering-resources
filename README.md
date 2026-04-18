@@ -1143,6 +1143,23 @@ Please review our [CONTRIBUTING.md](./CONTRIBUTING.md) before submitting a PR �
 
 *Weekly and monthly curated newsletters.*
 
+- ⭐ 📰 🆓 [**The Batch**](https://www.deeplearning.ai/the-batch/) — Andrew Ng / DeepLearning.AI. Weekly AI-engineering digest.
+- ⭐ 📰 🆓 [**Import AI**](https://importai.substack.com/) — Jack Clark (Anthropic co-founder). Policy + research.
+- ⭐ 📰 🆓 [**Latent Space**](https://www.latent.space/) — swyx. The AI-engineering newsletter of record.
+- 📰 🆓 [**Simon Willison's Weblog**](https://simonwillison.net/) — RSS/email. Daily real-time coverage of tools and agents.
+- 📰 🆓 [**Ahead of AI**](https://magazine.sebastianraschka.com/) — Sebastian Raschka. LLM research + fine-tuning deep-dives.
+- 📰 🆓 [**The Pragmatic Engineer**](https://newsletter.pragmaticengineer.com/) — Gergely Orosz. AI-engineering hiring/org coverage.
+- 📰 🆓 [**Interconnects**](https://www.interconnects.ai/) — Nathan Lambert. RLHF / post-training.
+- 📰 🆓 [**Last Week in AI**](https://lastweekin.ai/) — Weekly recap.
+- 📰 🆓 [**TLDR AI**](https://tldr.tech/ai) — Daily headlines.
+- 📰 🆓 [**Ben's Bites**](https://bensbites.co/) — Daily digest; founder-friendly.
+- 📰 🆓 [**Chip Huyen's Blog**](https://huyenchip.com/blog/) — Occasional long-form on AI engineering.
+- 📰 🆓 [**Eugene Yan**](https://eugeneyan.com/) — Pattern / eval / RAG deep-dives.
+- 📰 🆓 [**Hamel's Blog**](https://hamel.dev/) — Evals + applied LLMs.
+- 📰 🆓 [**Machine Learning Engineer Newsletter**](https://ethical.institute/mle.html) — Alejandro Saucedo. Weekly production-ML curation.
+- 📰 🆓 [**MLOps Community newsletter**](https://mlops.community/) — MLOps Community.
+- 📰 🆓 [**The Data Exchange**](https://thedataexchange.media/) — Ben Lorica.
+
 <a name="governance"></a>
 ## 🛡️ Governance, Safety & Responsible AI
 
