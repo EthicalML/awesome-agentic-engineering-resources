@@ -1249,6 +1249,16 @@ Please review our [CONTRIBUTING.md](./CONTRIBUTING.md) before submitting a PR �
 
 ---
 
+## How to suggest a resource
+
+Please use one of the [issue templates](https://github.com/EthicalML/awesome-agentic-engineering-resources/issues/new/choose) (resource suggestion, broken link, or trending nomination) or open a pull request following the guidance in [CONTRIBUTING.md](./CONTRIBUTING.md). The curation methodology and update cadence are documented in [NOTES.md](./NOTES.md).
+
+## Update cadence
+
+- **Weekly** — PR triage, broken-link fixes.
+- **Monthly** — Trending rotation, new-resource batches.
+- **Quarterly** — full thoroughness pass against the checklist in [NOTES.md](./NOTES.md).
+
 ## License
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/) — To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
