@@ -689,6 +689,26 @@ Please review our [CONTRIBUTING.md](./CONTRIBUTING.md) before submitting a PR �
 
 *Opinionated, prescriptive guides distilling design patterns and operational practices.*
 
+- ⭐ 📋 🆓 [**Building effective agents**](https://www.anthropic.com/engineering/building-effective-agents) — Anthropic. The canonical pattern taxonomy (T11).
+- ⭐ 📋 🆓 [**Patterns for Building LLM-based Systems & Products**](https://eugeneyan.com/writing/llm-patterns/) — Eugene Yan (T6).
+- ⭐ 📋 🆓 [**What We Learned from a Year of Building with LLMs**](https://applied-llms.org/) — Yan/Bensal/Bhawal/Husain/Shankar (T6/T13).
+- 📋 🆓 [**12-Factor Agents**](https://github.com/humanlayer/12-factor-agents) — HumanLayer. Opinionated operational principles for agent apps (T6/T11).
+- 📋 🆓 [**A practical guide to building agents**](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf) — OpenAI PDF (T11).
+- 📋 🆓 [**Claude Code: best practices for agentic coding**](https://www.anthropic.com/engineering/claude-code-best-practices) — Anthropic (T1/T3).
+- 📋 🆓 [**LangGraph design patterns**](https://langchain-ai.github.io/langgraph/concepts/) — LangChain (T11/T12).
+- 📋 🆓 [**Instructor's RAG patterns**](https://python.useinstructor.com/blog/2024/10/23/systematically-improving-your-rag/) — Jason Liu (T8).
+- 📋 🆓 [**OpenAI's prompt-engineering playbook**](https://platform.openai.com/docs/guides/prompt-engineering) — OpenAI (T7).
+- 📋 🆓 [**Anthropic's prompt engineering overview**](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview) — Anthropic (T7).
+- 📋 🆓 [**RAG-Fusion, HyDE, and other advanced retrieval patterns**](https://github.com/NirDiamant/RAG_Techniques) — Nir Diamant (T8).
+- 📋 🆓 [**LLM observability playbook**](https://hamel.dev/blog/posts/evals/) — Hamel Husain (T13/T14).
+- 📋 🆓 [**OWASP Top 10 for LLM Applications**](https://genai.owasp.org/llm-top-10/) — OWASP. The security-pattern catalogue (T15).
+- 📋 🆓 [**MITRE ATLAS**](https://atlas.mitre.org/) — Adversarial Threat Landscape for AI Systems (T15).
+- 📋 🆓 [**NIST AI Risk Management Framework**](https://www.nist.gov/itl/ai-risk-management-framework) — NIST (T16).
+- 📋 🆓 [**The LLM inference playbook**](https://github.com/ray-project/llm-applications) — Anyscale (T18).
+- 📋 🆓 [**Prompt-injection defence patterns**](https://simonwillison.net/2023/Apr/14/worst-that-can-happen/) — Simon Willison (T15).
+- 📋 🆓 [**a16z AI canon**](https://a16z.com/ai-canon/) — a16z (T20/T21).
+- 📋 🆓 [**UX design patterns for AI products**](https://www.nngroup.com/articles/generative-ai-design-patterns/) — Nielsen Norman Group (T20).
+
 <a name="papers"></a>
 ## 📄 Papers & Research
 
