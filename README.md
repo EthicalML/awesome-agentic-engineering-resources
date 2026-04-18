@@ -39,3 +39,14 @@ Resources are tagged with icons so you can scan and filter at a glance:
 | 🏗️ | Reference implementation / case study |
 | 📰 | Newsletter |
 
+## Quick links to sections on this page
+
+|   |   |   |
+|---|---|---|
+| [⭐ Trending / What's New](#trending) | [🧭 Core & Foundations](#core) | [🗓️ Milestones Timeline](#milestones) |
+| [👥 Communities](#communities) | [🧑‍🎓 Courses](#courses) | [📘 Books](#books) |
+| [✍️ Articles & Essays](#articles) | [🛠️ Tutorials & Cookbooks](#tutorials) | [📋 Playbooks & Patterns](#playbooks) |
+| [📄 Papers & Research](#papers) | [🧪 Benchmarks & Leaderboards](#benchmarks) | [🏗️ Reference Implementations](#references) |
+| [🎥 Talks & Conferences](#talks) | [🎧 Podcasts](#podcasts) | [📰 Newsletters](#newsletters) |
+| [🛡️ Governance, Safety & Responsible AI](#governance) | [🎨 Product, UX & Economics of AI](#product) | [🧑‍🤝‍🧑 Teams, Hiring & Org Design](#teams) |
+
