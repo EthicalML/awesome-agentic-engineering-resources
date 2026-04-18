@@ -365,6 +365,68 @@ Please review our [CONTRIBUTING.md](./CONTRIBUTING.md) before submitting a PR �
 
 *Published and in-progress books covering agentic & AI engineering.*
 
+### T1 · Coding Agents & AI-Assisted Development
+
+- ⭐ 📘 💰 [**AI-Assisted Programming**](https://www.oreilly.com/library/view/ai-assisted-programming/9781098164555/) — Tom Taulli (O'Reilly, 2024). Practical coverage of Copilot/Cursor/Claude workflows.
+- 📘 💰 [**Prompt Engineering for Generative AI**](https://www.oreilly.com/library/view/prompt-engineering-for/9781098153427/) — James Phoenix & Mike Taylor (O'Reilly, 2024). Includes heavy coverage of code-generation prompting patterns.
+
+### T6 · LLM Application Architecture & System Design
+
+- ⭐ 📘 💰 [**AI Engineering: Building Applications with Foundation Models**](https://www.oreilly.com/library/view/ai-engineering/9781098166298/) — Chip Huyen (O'Reilly, 2025). The reference textbook for the field.
+- 📘 💰 [**Designing Machine Learning Systems**](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/) — Chip Huyen (O'Reilly, 2022). The prior-generation canonical ML-systems text; still essential for data/infra context.
+- 📘 💰 [**Generative AI on AWS**](https://www.oreilly.com/library/view/generative-ai-on/9781098159214/) — Chris Fregly, Antje Barth, Shelbee Eigenbrode (O'Reilly, 2023).
+
+### T7 · Prompt Engineering
+
+- 📘 🆓 [**Prompt Engineering for LLMs**](https://www.oreilly.com/library/view/prompt-engineering-for/9781098156145/) — John Berryman & Albert Ziegler (O'Reilly, 2024). From Copilot's original tech-lead.
+- 📘 💰 [**The Prompt Report**](https://arxiv.org/abs/2406.06608) — Schulhoff et al. (2024). A 76-page survey that effectively functions as a book-length prompting reference.
+
+### T8 · RAG
+
+- 📘 💰 [**Building LLM Apps**](https://www.wiley.com/en-us/Building+LLM+Apps%3A+Create+Intelligent+Apps+and+Agents+with+Large+Language+Models-p-9781394250202) — Valentina Alto (Wiley, 2024). RAG-heavy application text.
+- 📘 🆓 [**RAG-Driven Generative AI**](https://www.packtpub.com/en-us/product/rag-driven-generative-ai-9781836200918) — Denis Rothman (Packt, 2024).
+
+### T10 · Tool Use & MCP
+
+- 📘 💰 [**Building Intelligent Apps with OpenAI**](https://www.oreilly.com/library/view/building-intelligent-apps/9781098159450/) — Olivier Caelen & Marie-Alice Blete (O'Reilly, 2024). Heavy function-calling coverage.
+
+### T11 · Orchestration & Design Patterns
+
+- 📘 💰 [**Generative AI with LangChain**](https://www.packtpub.com/en-in/product/generative-ai-with-langchain-9781835083468) — Ben Auffarth (Packt, 2023). Orchestration patterns end-to-end.
+
+### T13 · Evaluation
+
+- 📘 💰 [**Prompt Engineering for Generative AI**](https://www.oreilly.com/library/view/prompt-engineering-for/9781098153427/) — Phoenix & Taylor (O'Reilly, 2024). Chapter-length eval coverage.
+
+### T15 · Guardrails & Security
+
+- 📘 💰 [**The Developer's Playbook for Large Language Model Security**](https://www.oreilly.com/library/view/the-developers-playbook/9781098162191/) — Steve Wilson (O'Reilly, 2024). OWASP LLM Top 10 project lead's book.
+- 📘 💰 [**Generative AI Security**](https://link.springer.com/book/10.1007/979-8-8688-0277-1) — Ken Huang et al. (Apress, 2024).
+
+### T16 · Safety, Alignment & Responsible AI
+
+- 📘 💰 [**Human Compatible**](https://people.eecs.berkeley.edu/~russell/hc.html) — Stuart Russell (2019). The foundational alignment argument.
+- 📘 💰 [**The Alignment Problem**](https://brianchristian.org/the-alignment-problem/) — Brian Christian (2020). The canonical popular-press primer.
+
+### T17 · Fine-tuning & Post-training
+
+- ⭐ 📘 💰 [**Build a Large Language Model (From Scratch)**](https://www.manning.com/books/build-a-large-language-model-from-scratch) — Sebastian Raschka (Manning, 2024). The reference hands-on text.
+- 📘 💰 [**Hands-On Large Language Models**](https://www.oreilly.com/library/view/hands-on-large-language/9781098150952/) — Jay Alammar & Maarten Grootendorst (O'Reilly, 2024).
+
+### T18 · Inference & Serving
+
+- 📘 💰 [**Efficient Processing of Deep Neural Networks**](https://link.springer.com/book/10.1007/978-3-031-01766-7) — Sze et al. (Morgan & Claypool). Hardware/inference reference.
+
+### T20 · Product & UX
+
+- 📘 💰 [**Designing Machine Learning Systems**](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/) — Chip Huyen. Includes pragmatic product/UX chapters.
+- 📘 💰 [**Human-AI Interaction Design**](https://www.interaction-design.org/literature/topics/ai-interaction-design) — IxDF topic hub.
+
+### T21 · Economics, Teams & Org
+
+- 📘 💰 [**Managing Machine Learning Projects**](https://www.manning.com/books/managing-machine-learning-projects) — Simon Thompson (Manning).
+- 📘 🆓 [**The Pragmatic Engineer's AI coverage**](https://newsletter.pragmaticengineer.com/) — Gergely Orosz. Regularly-updated editorial that functions as a rolling book on AI-engineering org design.
+
 <a name="articles"></a>
 ## ✍️ Articles & Essays
 
