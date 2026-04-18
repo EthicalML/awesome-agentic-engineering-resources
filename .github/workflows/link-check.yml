@@ -1,0 +1,56 @@
+name: link-check
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '**/*.md'
+      - '.github/workflows/link-check.yml'
+      - '.lycheeignore'
+      - 'lychee.toml'
+  pull_request:
+    paths:
+      - '**/*.md'
+      - '.github/workflows/link-check.yml'
+      - '.lycheeignore'
+      - 'lychee.toml'
+  schedule:
+    # Weekly: Mondays 07:00 UTC
+    - cron: '0 7 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  link-check:
+    name: lychee
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Restore lychee cache
+        uses: actions/cache@v4
+        with:
+          path: .lycheecache
+          key: lychee-${{ github.sha }}
+          restore-keys: lychee-
+      - name: Run lychee
+        id: lychee
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: >-
+            --cache
+            --max-cache-age 7d
+            --no-progress
+            --accept 200,202,203,204,206,301,302,303,304,307,308,403,429
+            --exclude-mail
+            './**/*.md'
+          fail: ${{ github.event_name == 'pull_request' }}
+      - name: Create issue for broken links (scheduled runs only)
+        if: github.event_name == 'schedule' && steps.lychee.outputs.exit_code != '0'
+        uses: peter-evans/create-issue-from-file@v5
+        with:
+          title: "🔗 Broken links detected in scheduled link-check run"
+          content-filepath: ./lychee/out.md
+          labels: broken-link, maintenance

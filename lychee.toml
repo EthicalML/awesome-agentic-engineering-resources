@@ -1,0 +1,15 @@
+# lychee config — https://lychee.cli.rs/
+max_redirects = 10
+max_retries = 2
+timeout = 20
+retry_wait_time = 2
+include_verbatim = false
+accept = [200, 202, 203, 204, 206, 301, 302, 303, 304, 307, 308, 403, 429]
+exclude_mail = true
+# Hosts that are known to rate-limit CI or block headless agents
+exclude = [
+  "^https://twitter\\.com",
+  "^https://x\\.com",
+  "^https://www\\.linkedin\\.com",
+  "^https://medium\\.com",
+]
