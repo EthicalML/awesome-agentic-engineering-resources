@@ -584,6 +584,106 @@ Please review our [CONTRIBUTING.md](./CONTRIBUTING.md) before submitting a PR �
 
 *Hands-on, code-first guides and official cookbooks from model providers and framework authors.*
 
+### T1 · Coding Agents & AI-Assisted Development
+
+- ⭐ 🛠️ 🆓 [**Claude Code cookbook**](https://github.com/anthropics/claude-code) — Anthropic.
+- 🛠️ 🆓 [**Aider tutorials**](https://aider.chat/docs/usage/tutorials.html) — Aider docs.
+- 🛠️ 🆓 [**Continue.dev recipes**](https://docs.continue.dev/customize/tutorials/) — Continue.
+
+### T2 · Spec-Driven Development
+
+- 🛠️ 🆓 [**GitHub spec-kit**](https://github.com/github/spec-kit) — The official spec-driven-development toolkit.
+- 🛠️ 🆓 [**AGENTS.md examples**](https://agents.md/examples) — Example `AGENTS.md` files for common stacks.
+
+### T3 · Agent IDE Rules & Workflows
+
+- 🛠️ 🆓 [**awesome-cursorrules**](https://github.com/PatrickJS/awesome-cursorrules) — Curated `.cursorrules` examples.
+- 🛠️ 🆓 [**Claude Code slash-commands cookbook**](https://github.com/anthropics/claude-code/tree/main/examples/slash-commands) — Anthropic.
+
+### T5 · Autonomous Software Agents
+
+- 🛠️ 🆓 [**SWE-agent quickstart**](https://swe-agent.com/latest/usage/coding_challenges/) — Princeton NLP.
+- 🛠️ 🆓 [**OpenHands (formerly OpenDevin)**](https://docs.all-hands.dev/) — All Hands AI.
+
+### T6 · LLM Application Architecture
+
+- ⭐ 🛠️ 🆓 [**OpenAI Cookbook**](https://cookbook.openai.com/) — The reference recipe library for OpenAI APIs.
+- 🛠️ 🆓 [**Anthropic Cookbook**](https://github.com/anthropics/anthropic-cookbook) — Claude recipes.
+- 🛠️ 🆓 [**Gemini API Cookbook**](https://github.com/google-gemini/cookbook) — Google.
+- 🛠️ 🆓 [**Hugging Face Open-Source AI Cookbook**](https://huggingface.co/learn/cookbook/) — Hugging Face.
+
+### T7 · Prompt Engineering
+
+- 🛠️ 🆓 [**Anthropic prompt-engineering interactive tutorial**](https://github.com/anthropics/prompt-eng-interactive-tutorial) — Notebook-based.
+- 🛠️ 🆓 [**Prompt Engineering Guide notebooks**](https://github.com/dair-ai/Prompt-Engineering-Guide/tree/main/notebooks) — DAIR.AI.
+
+### T8 · Retrieval-Augmented Generation (RAG)
+
+- ⭐ 🛠️ 🆓 [**LlamaIndex tutorials**](https://docs.llamaindex.ai/en/stable/getting_started/starter_example/) — LlamaIndex.
+- 🛠️ 🆓 [**LangChain RAG from scratch**](https://github.com/langchain-ai/rag-from-scratch) — LangChain.
+- 🛠️ 🆓 [**Pinecone RAG handbook**](https://www.pinecone.io/learn/retrieval-augmented-generation/) — Pinecone.
+- 🛠️ 🆓 [**Advanced RAG notebooks**](https://github.com/NirDiamant/RAG_Techniques) — Nir Diamant. 30+ advanced RAG recipes.
+
+### T9 · Memory Systems
+
+- 🛠️ 🆓 [**Mem0 quickstart**](https://docs.mem0.ai/) — Mem0.
+- 🛠️ 🆓 [**Letta (MemGPT) cookbook**](https://docs.letta.com/) — Letta.
+- 🛠️ 🆓 [**LangGraph memory**](https://langchain-ai.github.io/langgraph/concepts/memory/) — LangChain.
+
+### T10 · Tool Use & MCP
+
+- ⭐ 🛠️ 🆓 [**MCP quickstart**](https://modelcontextprotocol.io/quickstart) — Anthropic.
+- 🛠️ 🆓 [**awesome-mcp-servers**](https://github.com/punkpeye/awesome-mcp-servers) — Community reference-servers catalogue.
+- 🛠️ 🆓 [**OpenAI function calling cookbook**](https://cookbook.openai.com/examples/how_to_call_functions_with_chat_models) — OpenAI.
+
+### T11 · Orchestration & Patterns
+
+- 🛠️ 🆓 [**LangGraph tutorials**](https://langchain-ai.github.io/langgraph/tutorials/) — LangChain.
+- 🛠️ 🆓 [**Anthropic building-effective-agents examples**](https://github.com/anthropics/anthropic-cookbook/tree/main/patterns/agents) — Anthropic.
+- 🛠️ 🆓 [**LlamaIndex agent tutorials**](https://docs.llamaindex.ai/en/stable/module_guides/deploying/agents/) — LlamaIndex.
+
+### T12 · Multi-Agent Systems
+
+- 🛠️ 🆓 [**CrewAI examples**](https://github.com/crewAIInc/crewAI-examples) — CrewAI.
+- 🛠️ 🆓 [**AutoGen notebook gallery**](https://microsoft.github.io/autogen/stable/user-guide/agentchat-user-guide/tutorial/introduction.html) — Microsoft.
+- 🛠️ 🆓 [**LangGraph multi-agent examples**](https://langchain-ai.github.io/langgraph/tutorials/multi_agent/multi-agent-collaboration/) — LangChain.
+
+### T13 · Evaluation & Testing
+
+- ⭐ 🛠️ 🆓 [**Hamel Husain's evals repo**](https://github.com/parlance-labs/ftcourse) — Companion code to the evals course.
+- 🛠️ 🆓 [**LangSmith evals tutorials**](https://docs.smith.langchain.com/evaluation) — LangChain.
+- 🛠️ 🆓 [**RAGAS tutorials**](https://docs.ragas.io/) — RAG-specific eval cookbook.
+
+### T14 · Observability
+
+- 🛠️ 🆓 [**Langfuse cookbook**](https://langfuse.com/docs/integrations/overview) — Langfuse.
+- 🛠️ 🆓 [**Arize Phoenix tutorials**](https://docs.arize.com/phoenix/tutorials) — Arize.
+- 🛠️ 🆓 [**Logfire LLM tracing tutorials**](https://logfire.pydantic.dev/docs/guides/onboarding-checklist/integrate/) — Pydantic.
+
+### T15 · Guardrails & Security
+
+- 🛠️ 🆓 [**Guardrails AI cookbook**](https://www.guardrailsai.com/docs/examples/bug_free_python_code) — Guardrails AI.
+- 🛠️ 🆓 [**NVIDIA NeMo Guardrails**](https://docs.nvidia.com/nemo/guardrails/) — NVIDIA.
+- 🛠️ 🆓 [**Prompt injection CTFs (Gandalf)**](https://gandalf.lakera.ai/) — Lakera. Hands-on red-team practice.
+
+### T17 · Fine-tuning & Post-training
+
+- ⭐ 🛠️ 🆓 [**Unsloth notebooks**](https://github.com/unslothai/unsloth) — Fast fine-tuning recipes.
+- 🛠️ 🆓 [**Axolotl examples**](https://github.com/axolotl-ai-cloud/axolotl/tree/main/examples) — Axolotl.
+- 🛠️ 🆓 [**Hugging Face TRL tutorials**](https://huggingface.co/docs/trl/) — TRL.
+
+### T18 · Inference & Serving
+
+- 🛠️ 🆓 [**vLLM examples**](https://docs.vllm.ai/en/latest/getting_started/examples/examples_index.html) — vLLM.
+- 🛠️ 🆓 [**TensorRT-LLM tutorials**](https://nvidia.github.io/TensorRT-LLM/) — NVIDIA.
+- 🛠️ 🆓 [**llama.cpp server**](https://github.com/ggerganov/llama.cpp/tree/master/examples/server) — ggerganov.
+
+### T19 · Voice & Multimodal
+
+- 🛠️ 🆓 [**OpenAI Realtime API cookbook**](https://cookbook.openai.com/examples/realtime_api_examples) — OpenAI.
+- 🛠️ 🆓 [**LiveKit Agents examples**](https://github.com/livekit/agents) — LiveKit.
+- 🛠️ 🆓 [**Pipecat**](https://github.com/pipecat-ai/pipecat) — Daily. Voice-agent framework with extensive cookbook.
+
 <a name="playbooks"></a>
 ## 📋 Playbooks & Design-Pattern Catalogs
 
