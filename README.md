@@ -146,3 +146,99 @@ Please review our [CONTRIBUTING.md](./CONTRIBUTING.md) before submitting a PR �
 
 # Main Content
 
+<a name="trending"></a>
+## ⭐ Trending / What's New
+
+*Rotating pinned items: the most-discussed agentic & AI-engineering resources of the current cycle. Refreshed regularly — see [CONTRIBUTING.md](./CONTRIBUTING.md) for nomination criteria.*
+
+<a name="core"></a>
+## 🧭 Core & Foundations
+
+*Canonical "what is agentic engineering / AI engineering" reading. Start here.*
+
+<a name="milestones"></a>
+## 🗓️ Milestones Timeline
+
+*Dated, field-defining events that shaped agentic & AI engineering.*
+
+<a name="communities"></a>
+## 👥 Communities
+
+*Discords, Slacks, forums, and meetups where practitioners gather.*
+
+<a name="courses"></a>
+## 🧑‍🎓 Courses
+
+*Structured courses — free and paid, university and industry.*
+
+<a name="books"></a>
+## 📘 Books
+
+*Published and in-progress books covering agentic & AI engineering.*
+
+<a name="articles"></a>
+## ✍️ Articles & Essays
+
+*Long-form writing from canonical authors and engineering teams.*
+
+<a name="tutorials"></a>
+## 🛠️ Tutorials & Cookbooks
+
+*Hands-on, code-first guides and official cookbooks from model providers and framework authors.*
+
+<a name="playbooks"></a>
+## 📋 Playbooks & Design-Pattern Catalogs
+
+*Opinionated, prescriptive guides distilling design patterns and operational practices.*
+
+<a name="papers"></a>
+## 📄 Papers & Research
+
+*Foundational papers, surveys, and benchmark papers. Includes a dated milestone-papers table.*
+
+<a name="benchmarks"></a>
+## 🧪 Benchmarks & Leaderboards
+
+*Public benchmarks and leaderboards for coding agents, tool use, RAG, evaluation, and more.*
+
+<a name="references"></a>
+## 🏗️ Reference Implementations & Case Studies
+
+*Public production write-ups and canonical reference repositories that teach by example.*
+
+<a name="talks"></a>
+## 🎥 Talks, Workshops & Conferences
+
+*Recorded talks, workshops, and conference series worth watching.*
+
+<a name="podcasts"></a>
+## 🎧 Podcasts
+
+*Recurring podcasts with strong agentic & AI-engineering coverage.*
+
+<a name="newsletters"></a>
+## 📰 Newsletters
+
+*Weekly and monthly curated newsletters.*
+
+<a name="governance"></a>
+## 🛡️ Governance, Safety & Responsible AI
+
+*Policy frameworks, safety research, red-teaming resources, and responsible-AI guidance.*
+
+<a name="product"></a>
+## 🎨 Product, UX & Economics of AI
+
+*Going beyond engineering: designing for AI, human-AI interaction, and the economics of LLM applications.*
+
+<a name="teams"></a>
+## 🧑‍🤝‍🧑 Teams, Hiring & Org Design
+
+*How organisations structure AI-engineering work, hire for it, and operate sustainably.*
+
+---
+
+## License
+
+[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/) — To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
+
