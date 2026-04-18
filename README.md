@@ -1165,15 +1165,87 @@ Please review our [CONTRIBUTING.md](./CONTRIBUTING.md) before submitting a PR �
 
 *Policy frameworks, safety research, red-teaming resources, and responsible-AI guidance.*
 
+### Policy & frameworks
+
+- ⭐ 🆓 [**NIST AI Risk Management Framework (AI RMF 1.0)**](https://www.nist.gov/itl/ai-risk-management-framework) — NIST. The foundational US framework.
+- 🆓 [**NIST Generative AI Profile (NIST-AI-600-1)**](https://www.nist.gov/itl/ai-risk-management-framework) — NIST.
+- 🆓 [**EU AI Act**](https://artificialintelligenceact.eu/) — European Commission. Official text + implementation timeline.
+- 🆓 [**UK AI Safety Institute reports**](https://www.gov.uk/government/organisations/ai-safety-institute) — UK AISI.
+- 🆓 [**OECD AI Principles**](https://oecd.ai/en/ai-principles) — International reference.
+
+### Lab safety & responsible scaling
+
+- ⭐ 🆓 [**Anthropic Responsible Scaling Policy**](https://www.anthropic.com/news/anthropics-responsible-scaling-policy) — Anthropic.
+- 🆓 [**Anthropic Core Views on AI Safety**](https://www.anthropic.com/news/core-views-on-ai-safety) — Anthropic.
+- 🆓 [**OpenAI Preparedness Framework**](https://openai.com/safety/preparedness) — OpenAI.
+- 🆓 [**Google DeepMind: Frontier Safety Framework**](https://deepmind.google/discover/blog/introducing-the-frontier-safety-framework/) — Google DeepMind.
+
+### Security & red-teaming
+
+- ⭐ 🆓 [**OWASP Top 10 for LLM Applications**](https://genai.owasp.org/llm-top-10/) — OWASP.
+- 🆓 [**MITRE ATLAS**](https://atlas.mitre.org/) — Adversarial threat landscape for AI systems.
+- 🆓 [**NIST Adversarial ML Taxonomy (NIST AI 100-2)**](https://csrc.nist.gov/pubs/ai/100/2/e2023/final) — NIST.
+- 🆓 [**HarmBench**](https://www.harmbench.org/) — CAIS.
+- 🆓 [**Simon Willison's prompt-injection series**](https://simonwillison.net/series/prompt-injection/) — SW.
+
+### Responsible AI practice
+
+- 🆓 [**Microsoft Responsible AI Standard**](https://www.microsoft.com/en-us/ai/responsible-ai) — Microsoft.
+- 🆓 [**Google Responsible AI practices**](https://ai.google/responsibility/responsible-ai-practices/) — Google.
+- 🆓 [**Fairlearn**](https://fairlearn.org/) — Open-source fairness toolkit.
+- 🆓 [**Partnership on AI**](https://partnershiponai.org/) — Multi-stakeholder org with published frameworks and incident database.
+
+### Papers & research
+
+- 📄 🆓 [**Concrete Problems in AI Safety**](https://arxiv.org/abs/1606.06565) — Amodei et al.
+- 📄 🆓 [**Constitutional AI**](https://arxiv.org/abs/2212.08073) — Bai et al.
+- 📄 🆓 [**Red Teaming Language Models with Language Models**](https://arxiv.org/abs/2202.03286) — Perez et al.
+- 📄 🆓 [**Sleeper Agents**](https://arxiv.org/abs/2401.05566) — Hubinger et al. (Anthropic).
+
 <a name="product"></a>
 ## 🎨 Product, UX & Economics of AI
 
 *Going beyond engineering: designing for AI, human-AI interaction, and the economics of LLM applications.*
 
+### Design & UX
+
+- ⭐ 🆓 [**Guidelines for Human-AI Interaction**](https://www.microsoft.com/en-us/research/publication/guidelines-for-human-ai-interaction/) — Amershi et al. (Microsoft Research). The canonical design heuristics.
+- 🆓 [**NNGroup: Generative AI design patterns**](https://www.nngroup.com/articles/generative-ai-design-patterns/) — Nielsen Norman Group.
+- 🆓 [**Google's People + AI Guidebook**](https://pair.withgoogle.com/guidebook/) — Google PAIR.
+- 🆓 [**Apple Human Interface Guidelines — Generative AI**](https://developer.apple.com/design/human-interface-guidelines/machine-learning) — Apple.
+- 🆓 [**Maggie Appleton**](https://maggieappleton.com/) — Essays on the UX of agentic, malleable software.
+- 🆓 [**Linus Lee**](https://thesephist.com/) — Essays on interfaces for tools of thought.
+
+### Economics & business
+
+- ⭐ 🆓 [**a16z: The Economic Case for Generative AI**](https://a16z.com/the-economic-case-for-generative-ai-and-foundation-models/) — a16z.
+- 🆓 [**Latent Space on unit economics**](https://www.latent.space/p/state-of-ai-engineering) — Latent Space.
+- 🆓 [**Stanford AI Index Report**](https://aiindex.stanford.edu/report/) — Stanford HAI. Annual deep economic + research snapshot.
+- 🆓 [**Epoch AI**](https://epochai.org/) — Data on compute, cost, and scaling trends.
+- 🆓 [**Artificial Analysis**](https://artificialanalysis.ai/) — Cross-provider pricing/latency/quality dashboards.
+
+### Product strategy
+
+- 🆓 [**16 Changes to the Way Enterprises Build Software with AI**](https://a16z.com/16-changes-to-the-way-enterprises-are-building-and-buying-generative-ai/) — a16z.
+- 🆓 [**AI product strategy**](https://www.lennysnewsletter.com/) — Lenny's Newsletter (AI tag).
+- 🆓 [**Every Inc**](https://every.to/) — Prose-heavy essays on AI product + consumer LLM UX.
+
 <a name="teams"></a>
 ## 🧑‍🤝‍🧑 Teams, Hiring & Org Design
 
 *How organisations structure AI-engineering work, hire for it, and operate sustainably.*
+
+- ⭐ 🆓 [**The Pragmatic Engineer — AI tag**](https://newsletter.pragmaticengineer.com/t/ai) — Gergely Orosz. AI-engineering hiring + org design.
+- 🆓 [**Building the AI Engineer role**](https://www.latent.space/p/ai-engineer) — swyx / Latent Space. The foundational essay defining "AI Engineer" as a discipline.
+- 🆓 [**What is an AI Engineer?**](https://applied-llms.org/) — Applied LLMs consortium.
+- 🆓 [**Eugene Yan: Team size and velocity**](https://eugeneyan.com/writing/team-size/) — Eugene Yan.
+- 🆓 [**Shreya Shankar: Operationalizing ML**](https://www.shreya-shankar.com/) — Shreya Shankar.
+- 🆓 [**Staff Engineer — AI org posts**](https://staffeng.com/) — Will Larson & community.
+- 🆓 [**a16z AI canon**](https://a16z.com/ai-canon/) — a16z. Curated reading list for people building AI teams.
+- 🆓 [**Emmanuel Ameisen: Building ML Powered Applications**](https://mlpowered.com/book/) — Book + blog on AI-team building.
+- 🆓 [**DeepLearning.AI AI Engineer Hiring Report**](https://www.deeplearning.ai/the-batch/) — The Batch periodic coverage.
+- 🆓 [**Chip Huyen: Machine learning in production**](https://huyenchip.com/2022/01/02/real-world-mlops-questions.html) — Org-design questions from production ML.
+- 🆓 [**GitHub: The AI-native developer**](https://github.blog/ai-and-ml/) — GitHub's research on workflows / productivity.
 
 ---
 
