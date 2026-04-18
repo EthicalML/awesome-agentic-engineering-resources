@@ -165,6 +165,62 @@ Please review our [CONTRIBUTING.md](./CONTRIBUTING.md) before submitting a PR �
 
 *Canonical "what is agentic engineering / AI engineering" reading. Start here.*
 
+### T1 · Coding Agents & AI-Assisted Development
+
+- ⭐ 🆓 [**Building effective agents**](https://www.anthropic.com/engineering/building-effective-agents) — Anthropic. The reference taxonomy of agent design patterns (workflows vs. agents).
+- ⭐ 🆓 [**Claude Code: Best practices for agentic coding**](https://www.anthropic.com/engineering/claude-code-best-practices) — Anthropic. CLAUDE.md, tools, slash-commands, headless mode.
+- 🆓 [**How to build an agent**](https://ampcode.com/how-to-build-an-agent) — Thorsten Ball. A working coding agent in ~400 lines; the clearest "agents are not magic" walkthrough.
+- 🆓 [**Here's how I use LLMs to help me write code**](https://simonwillison.net/2025/Mar/11/using-llms-for-code/) — Simon Willison. Grounded, practice-first account of daily LLM-assisted development.
+
+### T2 · Spec-Driven Development & Context Engineering
+
+- ⭐ 🆓 [**The new code**](https://www.latent.space/p/new-code) — Sean Grove (OpenAI) on Latent Space. The canonical "specs are the new code" essay.
+- 🆓 [**AGENTS.md**](https://agents.md/) — Community standard for per-repo agent instructions.
+- 🆓 [**spec-kit**](https://github.com/github/spec-kit) — GitHub's toolkit and essay set on spec-driven development with coding agents.
+- 🆓 [**The rise of "context engineering"**](https://blog.langchain.com/the-rise-of-context-engineering/) — LangChain. Why prompt engineering became context engineering.
+
+### T6 · LLM Application Architecture & System Design
+
+- ⭐ 📘 💰 [**AI Engineering**](https://www.oreilly.com/library/view/ai-engineering/9781098166298/) — Chip Huyen (O'Reilly, 2025). The textbook for building LLM applications end-to-end.
+- ⭐ 🆓 [**Patterns for Building LLM-based Systems & Products**](https://eugeneyan.com/writing/llm-patterns/) — Eugene Yan. Evaluation, RAG, fine-tuning, caching, guardrails, defensive UX, collecting feedback — the reference pattern catalogue.
+- 🆓 [**Emerging Architectures for LLM Applications**](https://a16z.com/emerging-architectures-for-llm-applications/) — a16z. The widely-shared reference diagram for the LLM app stack.
+- 🆓 [**What We Learned from a Year of Building with LLMs**](https://applied-llms.org/) — Yan, Bensal, Bhawal, Husain, Shankar (2024). Tactical, operational, and strategic lessons distilled from shipping.
+
+### T7 · Prompt Engineering
+
+- ⭐ 🆓 [**Prompt Engineering**](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/) — Lilian Weng (OpenAI). The systematic taxonomy.
+- 🆓 [**Prompt Engineering Guide**](https://www.promptingguide.ai/) — DAIR.AI. Continuously updated, with per-technique deep-dives.
+- 🆓 [**OpenAI: Prompt engineering**](https://platform.openai.com/docs/guides/prompt-engineering) — OpenAI official guide.
+- 🆓 [**Anthropic: Prompt engineering overview**](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview) — Anthropic's practical guide for Claude.
+
+### T8 · Retrieval-Augmented Generation (RAG)
+
+- ⭐ 📄 🆓 [**Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks**](https://arxiv.org/abs/2005.11401) — Lewis et al. (2020). The original RAG paper.
+- ⭐ 🆓 [**Advanced RAG Techniques**](https://www.pinecone.io/learn/advanced-rag-techniques/) / [**Pinecone Learn**](https://www.pinecone.io/learn/) — Pinecone. The hub for RAG primers and patterns.
+- 🆓 [**Retrieval-Augmented Generation for LLMs: A Survey**](https://arxiv.org/abs/2312.10997) — Gao et al. (2023). The reference survey.
+- 🆓 [**RAG is more than just embedding search**](https://jxnl.co/writing/2024/06/11/rag-is-more-than-just-embedding-search/) — Jason Liu. Systems-view RAG: query understanding, tool routing, evaluation.
+
+### T10 · Tool Use, Function Calling & MCP
+
+- ⭐ 🆓 [**Introducing the Model Context Protocol**](https://www.anthropic.com/news/model-context-protocol) — Anthropic (2024). The canonical introduction to MCP.
+- ⭐ 🆓 [**Model Context Protocol — Specification**](https://modelcontextprotocol.io/) — Open protocol docs and SDKs.
+- 📄 🆓 [**Toolformer: Language Models Can Teach Themselves to Use Tools**](https://arxiv.org/abs/2302.04761) — Schick et al. (2023). The foundational tool-use paper.
+- 🆓 [**Function calling guide**](https://platform.openai.com/docs/guides/function-calling) — OpenAI. The canonical reference for structured tool calls.
+
+### T11 · Orchestration, Planning & Design Patterns
+
+- ⭐ 🆓 [**Building effective agents**](https://www.anthropic.com/engineering/building-effective-agents) — Anthropic. The orchestration pattern taxonomy.
+- 🆓 [**LLM Powered Autonomous Agents**](https://lilianweng.github.io/posts/2023-06-23-agent/) — Lilian Weng. The canonical deep-dive on planning, memory, and tool use in agent loops.
+- 📄 🆓 [**ReAct: Synergizing Reasoning and Acting in Language Models**](https://arxiv.org/abs/2210.03629) — Yao et al. (2022). The foundational reason+act loop.
+- 📄 🆓 [**The Rise and Potential of LLM Based Agents: A Survey**](https://arxiv.org/abs/2309.07864) — Xi et al. (2023). Survey of agent architectures and components.
+
+### T13 · Evaluation & Testing
+
+- ⭐ 🆓 [**Your AI Product Needs Evals**](https://hamel.dev/blog/posts/evals/) — Hamel Husain. The most-cited essay on why and how to build evals for LLM products.
+- 🆓 [**Task-Specific LLM Evals that Do & Don't Work**](https://eugeneyan.com/writing/evals/) — Eugene Yan. A pragmatic survey of eval techniques per task type.
+- 📄 🆓 [**Judging LLM-as-a-Judge**](https://arxiv.org/abs/2306.05685) — Zheng et al. (2023). The foundational LLM-as-judge paper (MT-Bench, Chatbot Arena).
+- 🆓 [**Who Validates the Validators? Aligning LLM-Assisted Evaluation of LLM Outputs with Human Preferences**](https://arxiv.org/abs/2404.12272) — Shankar et al. (2024). How to make LLM-judges trustworthy.
+
 <a name="milestones"></a>
 ## 🗓️ Milestones Timeline
 
