@@ -432,6 +432,153 @@ Please review our [CONTRIBUTING.md](./CONTRIBUTING.md) before submitting a PR �
 
 *Long-form writing from canonical authors and engineering teams.*
 
+### T1 · Coding Agents & AI-Assisted Development
+
+- ⭐ 🆓 [**Here's how I use LLMs to help me write code**](https://simonwillison.net/2025/Mar/11/using-llms-for-code/) — Simon Willison.
+- 🆓 [**Agentic Coding: The Future of Software Development**](https://lucumr.pocoo.org/2025/6/12/agentic-coding/) — Armin Ronacher.
+- 🆓 [**Revenge of the junior developer**](https://sourcegraph.com/blog/revenge-of-the-junior-developer) — Steve Yegge (Sourcegraph).
+- 🆓 [**The death of the stubborn developer**](https://www.sourcegraph.com/blog/the-death-of-the-junior-developer) — Steve Yegge.
+
+### T2 · Spec-Driven Development & Context Engineering
+
+- ⭐ 🆓 [**The new code**](https://www.latent.space/p/new-code) — Sean Grove / Latent Space.
+- 🆓 [**Context Engineering**](https://blog.langchain.com/context-engineering-for-agents/) — LangChain.
+- 🆓 [**The rise of "context engineering"**](https://blog.langchain.com/the-rise-of-context-engineering/) — LangChain.
+- 🆓 [**Spec-driven development with AI**](https://github.blog/ai-and-ml/generative-ai/spec-driven-development-with-ai-get-started-with-a-new-open-source-toolkit/) — GitHub Blog.
+
+### T3 · Agent IDE Rules, Memory Files & Workflows
+
+- ⭐ 🆓 [**Claude Code: Best practices for agentic coding**](https://www.anthropic.com/engineering/claude-code-best-practices) — Anthropic.
+- 🆓 [**Cursor rules directory**](https://cursor.directory/) — Community catalogue of `.cursorrules` files.
+- 🆓 [**My Claude Code setup**](https://htdocs.dev/posts/how-to-use-claude-code-to-wield-coding-agent-clusters/) — widely-shared CLAUDE.md + slash-command playbook.
+- 🆓 [**Aider: Tips for using with large codebases**](https://aider.chat/docs/usage/tips.html) — Aider docs.
+
+### T4 · SWE Benchmarks & Coding Evaluation
+
+- ⭐ 🆓 [**Introducing SWE-bench Verified**](https://openai.com/index/introducing-swe-bench-verified/) — OpenAI.
+- 🆓 [**Why we built Terminal-Bench**](https://www.tbench.ai/blog/terminal-bench) — Stanford / Laude.
+- 🆓 [**Measuring an AI system's ability to do ML R&D**](https://metr.org/blog/2024-11-22-evaluating-r-d-capabilities-of-llms/) — METR.
+- 🆓 [**The leaderboard illusion**](https://arxiv.org/abs/2504.20879) — Singh et al. on bench-gaming.
+
+### T5 · Autonomous Software Agents
+
+- ⭐ 🆓 [**How we built our multi-agent research system**](https://www.anthropic.com/engineering/built-multi-agent-research-system) — Anthropic.
+- 🆓 [**Devin, a software engineer**](https://cognition.ai/blog/introducing-devin) — Cognition.
+- 🆓 [**Don't build multi-agents**](https://cognition.ai/blog/dont-build-multi-agents) — Cognition. Contrarian but important counterpoint to multi-agent maximalism.
+- 🆓 [**SWE-agent: Agent-Computer Interfaces**](https://swe-agent.com/latest/) — Princeton NLP writeup.
+
+### T6 · LLM Application Architecture
+
+- ⭐ 🆓 [**Patterns for Building LLM-based Systems & Products**](https://eugeneyan.com/writing/llm-patterns/) — Eugene Yan.
+- 🆓 [**Emerging Architectures for LLM Applications**](https://a16z.com/emerging-architectures-for-llm-applications/) — a16z.
+- 🆓 [**What We Learned from a Year of Building with LLMs**](https://applied-llms.org/) — Yan/Bensal/Bhawal/Husain/Shankar.
+- 🆓 [**Twelve factor agents**](https://github.com/humanlayer/12-factor-agents) — HumanLayer. The "12-factor app" equivalent for agent apps.
+
+### T7 · Prompt Engineering
+
+- ⭐ 🆓 [**Prompt Engineering**](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/) — Lilian Weng.
+- 🆓 [**Prompting is programming**](https://eugeneyan.com/writing/prompting/) — Eugene Yan.
+- 🆓 [**A guide to prompting Claude**](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview) — Anthropic.
+- 🆓 [**The prompt report**](https://learnprompting.org/blog/the_prompt_report) — Learn Prompting team summary of their 76-page survey.
+
+### T8 · Retrieval-Augmented Generation (RAG)
+
+- ⭐ 🆓 [**RAG is more than just embedding search**](https://jxnl.co/writing/2024/06/11/rag-is-more-than-just-embedding-search/) — Jason Liu.
+- 🆓 [**How to improve your RAG system's performance**](https://www.anyscale.com/blog/a-comprehensive-guide-for-building-rag-based-llm-applications-part-1) — Anyscale.
+- 🆓 [**Advanced RAG Techniques**](https://www.pinecone.io/learn/advanced-rag-techniques/) — Pinecone.
+- 🆓 [**Practical considerations in RAG application design**](https://eugeneyan.com/writing/rag/) — Eugene Yan.
+
+### T9 · Memory Systems & Long-Context
+
+- ⭐ 🆓 [**Lost in the Middle: How Language Models Use Long Contexts**](https://arxiv.org/abs/2307.03172) — Liu et al.
+- 🆓 [**Memory for agents**](https://blog.langchain.com/memory-for-agents/) — LangChain.
+- 🆓 [**Extending Context Length in LLMs**](https://huggingface.co/blog/long-range-transformers) — Hugging Face.
+- 🆓 [**The agentic memory stack**](https://www.letta.com/blog/memgpt) — Letta (MemGPT).
+
+### T10 · Tool Use, Function Calling & MCP
+
+- ⭐ 🆓 [**Introducing the Model Context Protocol**](https://www.anthropic.com/news/model-context-protocol) — Anthropic.
+- 🆓 [**Function calling with LLMs: a practical guide**](https://www.promptingguide.ai/applications/function_calling) — DAIR.AI.
+- 🆓 [**Tool use is eating the world**](https://latent.space/p/tools) — Latent Space.
+- 🆓 [**Designing MCP servers that agents actually use**](https://www.philschmid.de/mcp-introduction) — Phil Schmid.
+
+### T11 · Orchestration & Design Patterns
+
+- ⭐ 🆓 [**LLM Powered Autonomous Agents**](https://lilianweng.github.io/posts/2023-06-23-agent/) — Lilian Weng.
+- 🆓 [**Building effective agents**](https://www.anthropic.com/engineering/building-effective-agents) — Anthropic.
+- 🆓 [**Agent design patterns**](https://www.deeplearning.ai/the-batch/issue-241/) — Andrew Ng, The Batch series.
+- 🆓 [**AI agent frameworks**](https://www.latent.space/p/agent-frameworks) — Latent Space comparative review.
+
+### T12 · Multi-Agent Systems & Coordination
+
+- ⭐ 🆓 [**How we built our multi-agent research system**](https://www.anthropic.com/engineering/built-multi-agent-research-system) — Anthropic.
+- 🆓 [**Multi-agent workflows**](https://blog.langchain.com/langgraph-multi-agent-workflows/) — LangChain.
+- 🆓 [**Don't build multi-agents**](https://cognition.ai/blog/dont-build-multi-agents) — Cognition.
+- 🆓 [**AutoGen: Enabling next-gen LLM applications**](https://microsoft.github.io/autogen/stable/user-guide/agentchat-user-guide/) — Microsoft.
+
+### T13 · Evaluation & Testing
+
+- ⭐ 🆓 [**Your AI product needs evals**](https://hamel.dev/blog/posts/evals/) — Hamel Husain.
+- 🆓 [**Task-specific LLM evals that do & don't work**](https://eugeneyan.com/writing/evals/) — Eugene Yan.
+- 🆓 [**Creating a LLM-as-a-Judge that drives business results**](https://hamel.dev/blog/posts/llm-judge/) — Hamel Husain.
+- 🆓 [**LLM evals: everything I learned in 12 months**](https://www.shreya-shankar.com/evals-paper/) — Shreya Shankar.
+
+### T14 · Observability, Tracing & Debugging
+
+- ⭐ 🆓 [**So you want to build an LLM observability platform**](https://hamel.dev/blog/posts/evals/#observability) — Hamel Husain (subsection of evals post; foundational).
+- 🆓 [**The OpenTelemetry Gen AI semantic conventions**](https://opentelemetry.io/docs/specs/semconv/gen-ai/) — OTel.
+- 🆓 [**How Honeycomb uses LLMs for product experiences**](https://www.honeycomb.io/blog/hard-stuff-nobody-talks-about-llm) — Phillip Carter.
+- 🆓 [**Logfire: observability for the LLM era**](https://pydantic.dev/logfire) — Pydantic.
+
+### T15 · Guardrails & Security
+
+- ⭐ 🆓 [**Prompt injection series**](https://simonwillison.net/series/prompt-injection/) — Simon Willison. Canonical ongoing series.
+- 🆓 [**OWASP Top 10 for LLM Applications**](https://genai.owasp.org/llm-top-10/) — OWASP.
+- 🆓 [**Universal and Transferable Adversarial Attacks on Aligned LLMs**](https://arxiv.org/abs/2307.15043) — Zou et al. (GCG attack).
+- 🆓 [**Red teaming LLMs**](https://huggingface.co/blog/red-teaming) — Hugging Face.
+
+### T16 · Safety, Alignment & Responsible AI
+
+- ⭐ 🆓 [**Core Views on AI Safety**](https://www.anthropic.com/news/core-views-on-ai-safety) — Anthropic.
+- 🆓 [**Anthropic's Responsible Scaling Policy**](https://www.anthropic.com/news/anthropics-responsible-scaling-policy) — Anthropic.
+- 🆓 [**Preparedness Framework**](https://openai.com/safety/preparedness) — OpenAI.
+- 🆓 [**Scalable oversight via debate & recursive reward modelling**](https://deepmindsafetyresearch.medium.com/) — DeepMind Safety Research.
+
+### T17 · Fine-tuning, Post-training & RLHF
+
+- ⭐ 🆓 [**Ahead of AI**](https://magazine.sebastianraschka.com/) — Sebastian Raschka. The canonical fine-tuning / post-training deep-dives.
+- 🆓 [**The Novice's LLM Training Guide**](https://rentry.org/llm-training) — Community reference.
+- 🆓 [**DPO: Your language model is secretly a reward model**](https://arxiv.org/abs/2305.18290) — Rafailov et al.
+- 🆓 [**The alignment handbook**](https://github.com/huggingface/alignment-handbook) — Hugging Face.
+
+### T18 · Inference, Serving, Cost & Latency
+
+- ⭐ 🆓 [**Transformer Inference Arithmetic**](https://kipp.ly/transformer-inference-arithmetic/) — Kipply.
+- 🆓 [**LLM Inference Speed of Light**](https://zeux.io/2024/03/15/llm-inference-sol/) — Arseny Kapoulkine.
+- 🆓 [**Everything I've learned about efficient LLM inference**](https://www.baseten.co/blog/) — Baseten engineering blog.
+- 🆓 [**GPU performance for LLM inference**](https://blog.vllm.ai/) — vLLM team blog.
+
+### T19 · Voice, Multi-modal & Embodied Agents
+
+- ⭐ 🆓 [**Hello GPT-4o**](https://openai.com/index/hello-gpt-4o/) — OpenAI.
+- 🆓 [**Building a voice agent with LiveKit**](https://docs.livekit.io/agents/) — LiveKit Agents docs.
+- 🆓 [**Voice-first LLM products**](https://www.latent.space/p/voice-2024) — Latent Space.
+- 🆓 [**Moshi: a speech-text foundation model**](https://kyutai.org/Moshi.pdf) — Kyutai.
+
+### T20 · Product, UX & Human-AI Interaction
+
+- ⭐ 🆓 [**Maggie Appleton essays**](https://maggieappleton.com/) — Canonical AI-UX thinking.
+- 🆓 [**Microsoft HAX guidelines for human-AI interaction**](https://www.microsoft.com/en-us/research/project/guidelines-for-human-ai-interaction/) — Microsoft Research.
+- 🆓 [**Generative AI: Design Patterns (NNGroup)**](https://www.nngroup.com/articles/generative-ai-design-patterns/) — Nielsen Norman Group.
+- 🆓 [**Building products with AI: UX lessons**](https://www.linusakesson.net/) / [**thesephist.com essays**](https://thesephist.com/) — Linus Lee.
+
+### T21 · Economics, Teams, Hiring & Org Design
+
+- ⭐ 🆓 [**AI engineering org design**](https://newsletter.pragmaticengineer.com/t/ai) — Gergely Orosz, Pragmatic Engineer.
+- 🆓 [**Building an AI team**](https://eugeneyan.com/writing/team-size/) — Eugene Yan.
+- 🆓 [**a16z AI canon**](https://a16z.com/ai-canon/) — a16z.
+- 🆓 [**16 Changes to the Way Enterprises Build Software with AI**](https://a16z.com/16-changes-to-the-way-enterprises-are-building-and-buying-generative-ai/) — a16z.
+
 <a name="tutorials"></a>
 ## 🛠️ Tutorials & Cookbooks
 
