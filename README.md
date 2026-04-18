@@ -151,6 +151,15 @@ Please review our [CONTRIBUTING.md](./CONTRIBUTING.md) before submitting a PR �
 
 *Rotating pinned items: the most-discussed agentic & AI-engineering resources of the current cycle. Refreshed regularly — see [CONTRIBUTING.md](./CONTRIBUTING.md) for nomination criteria.*
 
+- ⭐ 🆓 [**Building effective agents**](https://www.anthropic.com/engineering/building-effective-agents) — Anthropic (2024). The most-cited reference for agent design patterns (augmented LLM, prompt chaining, routing, parallelisation, orchestrator-workers, evaluator-optimiser, autonomous agents). Start here before any other agent reading.
+- ⭐ 🆓 [**How we built our multi-agent research system**](https://www.anthropic.com/engineering/built-multi-agent-research-system) — Anthropic (2025). Production retrospective on Claude's multi-agent research mode: orchestrator/subagent split, prompt engineering for agents, evaluation and failure modes.
+- ⭐ 🆓 [**A practical guide to building agents**](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf) — OpenAI (2025). 30-page PDF covering when (and when not) to build agents, tool design, guardrails, and human-in-the-loop patterns.
+- ⭐ 🆓 [**The bitter lesson of AI agents**](https://lucumr.pocoo.org/2025/6/12/agentic-coding/) / [**Agentic Coding: The Future of Software Development with Agents**](https://lucumr.pocoo.org/) — Armin Ronacher (2025). Widely-shared essays on what it actually feels like to ship with agentic coding tools day-to-day.
+- 🆓 [**Claude Code: Best practices for agentic coding**](https://www.anthropic.com/engineering/claude-code-best-practices) — Anthropic (2025). CLAUDE.md, slash-commands, headless mode, custom permissions — the canonical how-to-use-Claude-Code reference.
+- 🆓 [**How to build an agent**](https://ampcode.com/how-to-build-an-agent) — Thorsten Ball / Amp (2025). Viral step-by-step implementation of a tool-using coding agent in ~400 lines of Go, demystifying "what is an agent" in code.
+- 🆓 [**The new code**](https://www.latent.space/p/new-code) — Sean Grove / OpenAI on Latent Space (2025). Specs-as-code: the spec is the new artefact, models are the compiler. Heavily cited in the AGENTS.md / spec-kit discussion.
+- 🆓 [**AGENTS.md**](https://agents.md/) — Community standard (2025) for per-repo agent instructions, now read by Claude Code, Codex, Aider, Cursor, Cline, Windsurf and others.
+
 <a name="core"></a>
 ## 🧭 Core & Foundations
 
