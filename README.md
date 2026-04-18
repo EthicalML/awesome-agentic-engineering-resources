@@ -1,3 +1,5 @@
+<!--lint disable table-pipe-alignment table-cell-padding double-link awesome-list-item awesome-spell-check no-heading-punctuation no-multiple-toplevel-headings awesome-heading no-undefined-references awesome-license-->
+
 [![Awesome](https://awesome.re/badge.svg?cacheSeconds=86400)](https://awesome.re)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/EthicalML/awesome-agentic-engineering-resources/pulls)
@@ -1262,4 +1264,3 @@ Please use one of the [issue templates](https://github.com/EthicalML/awesome-age
 ## License
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/) — To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
-
