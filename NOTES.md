@@ -33,7 +33,7 @@ When in doubt, pick the topic the reader would most plausibly *be searching for*
 
 Each entry is a single bullet of the form:
 
-```
+```markdown
 - [icons] [**Title**](url) — Author / Org. One sentence explaining what you'll learn or why it matters.
 ```
 
