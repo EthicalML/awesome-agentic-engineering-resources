@@ -1,5 +1,5 @@
 <!--lint disable table-pipe-alignment table-cell-padding double-link awesome-spell-check-->
-<!--lint disable is intentional for this curated index: repeated canonical links across sections and dense matrix/timeline tables trigger high-noise violations that are expected in this format; spell-check is disabled because this list contains many proper nouns, project names, and acronyms that repeatedly false-positive.-->
+<!--Rationale: lint suppression is intentional for this curated index. Repeated canonical links across sections and dense matrix/timeline tables trigger high-noise violations that are expected in this format; spell-check is disabled because this list contains many proper nouns, project names, and acronyms that repeatedly false-positive.-->
 
 [![Awesome](https://awesome.re/badge.svg?cacheSeconds=86400)](https://awesome.re)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
