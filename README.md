@@ -226,6 +226,33 @@ Please review our [CONTRIBUTING.md](./CONTRIBUTING.md) before submitting a PR �
 
 *Dated, field-defining events that shaped agentic & AI engineering.*
 
+| Date | Event | Reference |
+|---|---|---|
+| 2017-06 | Transformer architecture introduced | [Attention Is All You Need](https://arxiv.org/abs/1706.03762) |
+| 2020-05 | GPT-3 shows in-context learning at scale | [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165) |
+| 2020-05 | RAG framework introduced | [RAG for Knowledge-Intensive NLP](https://arxiv.org/abs/2005.11401) |
+| 2021-06 | GitHub Copilot preview launches — first mainstream AI coding assistant | [GitHub blog](https://github.blog/news-insights/product-news/introducing-github-copilot-ai-pair-programmer/) |
+| 2022-01 | Chain-of-Thought prompting | [Wei et al.](https://arxiv.org/abs/2201.11903) |
+| 2022-03 | InstructGPT / RLHF | [Ouyang et al.](https://arxiv.org/abs/2203.02155) |
+| 2022-10 | ReAct: reasoning + acting agent loop | [Yao et al.](https://arxiv.org/abs/2210.03629) |
+| 2022-11 | ChatGPT release — mainstream adoption inflection | [OpenAI](https://openai.com/index/chatgpt/) |
+| 2023-03 | GPT-4 release | [OpenAI](https://openai.com/index/gpt-4/) |
+| 2023-03 | HuggingGPT / Toolformer-era tool use | [Toolformer](https://arxiv.org/abs/2302.04761) |
+| 2023-03 | LangChain & LlamaIndex hit mainstream | — |
+| 2023-05 | Voyager: open-ended agents in Minecraft | [Voyager](https://arxiv.org/abs/2305.16291) |
+| 2023-06 | Simon Willison coins "prompt injection" as a durable threat category | [SW blog](https://simonwillison.net/series/prompt-injection/) |
+| 2023-10 | SWE-bench released — real-world coding eval | [SWE-bench](https://www.swebench.com/) |
+| 2023-12 | Mixture-of-experts open models (Mixtral) | [Mistral](https://mistral.ai/news/mixtral-of-experts/) |
+| 2024-03 | Devin demo — autonomous software agent pitch | [Cognition](https://cognition.ai/blog/introducing-devin) |
+| 2024-05 | GPT-4o: native multi-modal + realtime voice | [OpenAI](https://openai.com/index/hello-gpt-4o/) |
+| 2024-06 | Anthropic's "Building effective agents" publishes | [Anthropic](https://www.anthropic.com/engineering/building-effective-agents) |
+| 2024-07 | SWE-bench Verified launched | [OpenAI](https://openai.com/index/introducing-swe-bench-verified/) |
+| 2024-09 | o1 reveals reasoning-model era | [OpenAI](https://openai.com/index/learning-to-reason-with-llms/) |
+| 2024-11 | Model Context Protocol (MCP) announced | [Anthropic](https://www.anthropic.com/news/model-context-protocol) |
+| 2025-02 | Claude Code general availability | [Anthropic](https://www.anthropic.com/claude-code) |
+| 2025-05 | AGENTS.md published as cross-agent standard | [agents.md](https://agents.md/) |
+| 2025-06 | GitHub spec-kit / "new code" essays formalise spec-driven dev | [spec-kit](https://github.com/github/spec-kit) |
+
 <a name="communities"></a>
 ## 👥 Communities
 
