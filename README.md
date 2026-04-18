@@ -19,3 +19,23 @@ You can keep up to date by watching this repo for the monthly releases summarisi
 
 This list was proposed in [EthicalML/awesome-production-machine-learning#709](https://github.com/EthicalML/awesome-production-machine-learning/issues/709) as a sister list focused on *resources* rather than tools.
 
+## Legend
+
+Resources are tagged with icons so you can scan and filter at a glance:
+
+| Icon | Meaning |
+|---|---|
+| ⭐ | Editors' pick — start here |
+| 🆓 | Free to access |
+| 💰 | Paid |
+| 📘 | Book |
+| 🧑‍🎓 | Course |
+| 🎥 | Video / talk |
+| 🎧 | Audio / podcast |
+| 📄 | Paper |
+| 🛠️ | Hands-on cookbook / tutorial |
+| 📋 | Playbook / design-pattern catalog |
+| 🧪 | Benchmark / leaderboard |
+| 🏗️ | Reference implementation / case study |
+| 📰 | Newsletter |
+
