@@ -392,6 +392,7 @@ Please review our [CONTRIBUTING.md](./CONTRIBUTING.md) before submitting a PR �
 ### T8 · RAG
 
 - 📘 💰 [**Building LLM Apps**](https://www.wiley.com/en-us/Building+LLM+Apps%3A+Create+Intelligent+Apps+and+Agents+with+Large+Language+Models-p-9781394250202) — Valentina Alto (Wiley, 2024). RAG-heavy application text.
+- 📘 💰 [**RAG Made Simple**](https://diamant-ai.com/rag-made-simple) - Nir Diamant (2025). A visual, code-free walkthrough of 22 retrieval-augmented generation techniques explained through diagrams and analogies.
 - 📘 🆓 [**RAG-Driven Generative AI**](https://www.packtpub.com/en-us/product/rag-driven-generative-ai-9781836200918) — Denis Rothman (Packt, 2024).
 
 ### T10 · Tool Use & MCP
@@ -1176,6 +1177,7 @@ Please review our [CONTRIBUTING.md](./CONTRIBUTING.md) before submitting a PR �
 - 📰 🆓 [**Machine Learning Engineer Newsletter**](https://ethical.institute/mle.html) — Alejandro Saucedo. Weekly production-ML curation.
 - 📰 🆓 [**MLOps Community newsletter**](https://mlops.community/) — MLOps Community.
 - 📰 🆓 [**The Data Exchange**](https://thedataexchange.media/) — Ben Lorica.
+- 📰 🆓 [**DiamantAI**](https://diamantai.substack.com) - Nir Diamant. Practical AI engineering and generative AI: RAG, agents, and LLM application patterns explained simply.
 
 <a name="governance"></a>
 
