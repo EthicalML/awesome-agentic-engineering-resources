@@ -952,6 +952,7 @@ Please review our [CONTRIBUTING.md](./CONTRIBUTING.md) before submitting a PR �
 - ⭐ 🏗️ 🆓 [**Claude Code**](https://github.com/anthropics/claude-code) — Anthropic's reference agentic CLI.
 - 🏗️ 🆓 [**Aider**](https://github.com/Aider-AI/aider) — Reference terminal coding agent with detailed engineering blog.
 - 🏗️ 🆓 [**Cline**](https://github.com/cline/cline) — Open-source autonomous coding agent.
+- 🏗️ 🆓 [**Model Studio CLI**](https://github.com/modelstudioai/cli) — Official command-line interface for the Aliyun Model Studio AI platform.
 - 🏗️ 🆓 [**OpenHands**](https://github.com/All-Hands-AI/OpenHands) — All Hands AI. Open-source autonomous SWE agent.
 
 ### T2 · Spec-Driven Dev
