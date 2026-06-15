@@ -718,6 +718,7 @@ Please review our [CONTRIBUTING.md](./CONTRIBUTING.md) before submitting a PR �
 - 📋 🆓 [**The LLM inference playbook**](https://github.com/ray-project/llm-applications) — Anyscale (T18).
 - 📋 🆓 [**Prompt-injection defence patterns**](https://simonwillison.net/2023/Apr/14/worst-that-can-happen/) — Simon Willison (T15).
 - 📋 🆓 [**a16z AI canon**](https://a16z.com/ai-canon/) — a16z (T20/T21).
+- 📋 🆓 [**Agentic UX**](https://agentic-ux.com/) — 11 runtime lifecycle patterns for supervised delegation, organized before/while/after an agent acts, with interactive mockups, production screenshots, and an MCP server for coding agents (Daniel Albinsson, 2025).
 - 📋 🆓 [**UX design patterns for AI products**](https://www.nngroup.com/articles/generative-ai-design-patterns/) — Nielsen Norman Group (T20).
 
 <a name="papers"></a>
