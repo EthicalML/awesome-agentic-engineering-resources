@@ -1165,7 +1165,7 @@ Please review our [CONTRIBUTING.md](./CONTRIBUTING.md) before submitting a PR �
 - 📰 🆓 [**Ahead of AI**](https://magazine.sebastianraschka.com/) — Sebastian Raschka. LLM research + fine-tuning deep-dives.
 - 📰 🆓 [**Ben's Bites**](https://bensbites.co/) — Daily digest; founder-friendly.
 - 📰 🆓 [**Chip Huyen's Blog**](https://huyenchip.com/blog/) — Occasional long-form on AI engineering.
-- 📰 🆓 [**DiamantAI**](https://diamantai.substack.com) - Nir Diamant. Practical AI engineering and generative AI: RAG, agents, and LLM application patterns explained simply.
+- 📰 🆓 [**DiamantAI**](https://diamantai.substack.com) — Nir Diamant. Practical AI engineering and generative AI: RAG, agents, and LLM application patterns explained simply.
 - 📰 🆓 [**Eugene Yan**](https://eugeneyan.com/) — Pattern / eval / RAG deep-dives.
 - 📰 🆓 [**Hamel's Blog**](https://hamel.dev/) — Evals + applied LLMs.
 - ⭐ 📰 🆓 [**Import AI**](https://importai.substack.com/) — Jack Clark (Anthropic co-founder). Policy + research.
