@@ -1005,6 +1005,7 @@ Please review our [CONTRIBUTING.md](./CONTRIBUTING.md) before submitting a PR �
 - 🏗️ 🆓 [**Langfuse**](https://github.com/langfuse/langfuse) — Open-source LLM observability.
 - 🏗️ 🆓 [**Arize Phoenix**](https://github.com/Arize-ai/phoenix) — Open-source tracing + evals.
 - 🏗️ 🆓 [**OpenLLMetry**](https://github.com/traceloop/openllmetry) — OTel-based LLM instrumentation.
+- 🏗️ 🆓 [**Future AGI**](https://github.com/future-agi/future-agi) — Open-source platform to trace, evaluate, simulate, guard, and auto-improve AI agents.
 
 ### T15 · Guardrails & Security
 
