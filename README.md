@@ -518,6 +518,7 @@ Please review our [CONTRIBUTING.md](./CONTRIBUTING.md) before submitting a PR �
 - 🆓 [**AI agent frameworks**](https://www.latent.space/p/agent-frameworks) — Latent Space comparative review.
 - 🆓 [**Building effective agents**](https://www.anthropic.com/engineering/building-effective-agents) — Anthropic.
 - ⭐ 🆓 [**LLM Powered Autonomous Agents**](https://lilianweng.github.io/posts/2023-06-23-agent/) — Lilian Weng.
+- 🆓 [**Retry budgets: why 20% per-step failure doubles your token bill**](https://loopandretry.surge.sh/posts/retry-budgets/?ref=awesome-agentic-eng) — Loop & Retry.
 
 ### T12 · Multi-Agent Systems & Coordination
 
