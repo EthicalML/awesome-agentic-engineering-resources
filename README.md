@@ -890,6 +890,7 @@ Please review our [CONTRIBUTING.md](./CONTRIBUTING.md) before submitting a PR �
 ### T5 · Autonomous Agents
 
 - 🧪 🆓 [**AgentBench**](https://llmbench.ai/agent) — Tsinghua. Broad agent capability benchmark.
+- 🧪 🆓 [**ClawBench**](https://arxiv.org/abs/2604.08523) — 153 everyday online tasks on 144 live websites with final requests intercepted for safe evaluation.
 - 🧪 🆓 [**GAIA**](https://huggingface.co/gaia-benchmark) — General AI Assistants benchmark.
 - 🧪 🆓 [**MLE-bench**](https://github.com/openai/mle-bench) — ML-engineering agents.
 - 🧪 🆓 [**OSWorld**](https://os-world.github.io/) — Desktop OS-controlling agents.
