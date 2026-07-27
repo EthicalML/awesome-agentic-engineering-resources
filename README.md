@@ -920,6 +920,7 @@ Please review our [CONTRIBUTING.md](./CONTRIBUTING.md) before submitting a PR �
 - 🧪 🆓 [**HELM**](https://crfm.stanford.edu/helm/) — Stanford CRFM. Holistic evaluation.
 - 🧪 🆓 [**MMLU-Pro**](https://github.com/TIGER-AI-Lab/MMLU-Pro) — Harder MMLU.
 - 🧪 🆓 [**MT-Bench**](https://huggingface.co/spaces/lmsys/mt-bench) — LLM-as-judge multi-turn.
+- 🧪 🆓 [**StructEval**](https://github.com/TIGER-AI-Lab/StructEval) — TIGER-AI Lab. Benchmarks LLM structural fidelity across 18 text and renderable formats using syntax, structural, and visual checks (TMLR 2025).
 
 ### T15 · Guardrails & Security
 
