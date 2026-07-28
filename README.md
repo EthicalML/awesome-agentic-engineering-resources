@@ -965,6 +965,7 @@ Please review our [CONTRIBUTING.md](./CONTRIBUTING.md) before submitting a PR �
 
 ### T5 · Autonomous SWE Agents
 
+- 🏗️ 🆓 [**AgentENV**](https://github.com/kvcache-ai/AgentEnv) — Platform for running snapshot-backed agent environments at scale for agentic RL training.
 - 🏗️ 🆓 [**Agentless**](https://github.com/OpenAutoCoder/Agentless) — Minimal agentless baseline that beat prior agents on SWE-bench Lite.
 - 🏗️ 🆓 [**AutoCodeRover**](https://github.com/nus-apr/auto-code-rover) — NUS.
 - 🏗️ 🆓 [**SWE-agent**](https://github.com/princeton-nlp/SWE-agent) — Princeton NLP. Reference agent for SWE-bench.
