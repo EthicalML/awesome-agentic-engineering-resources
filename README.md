@@ -895,6 +895,7 @@ Please review our [CONTRIBUTING.md](./CONTRIBUTING.md) before submitting a PR �
 - 🧪 🆓 [**MLE-bench**](https://github.com/openai/mle-bench) — ML-engineering agents.
 - 🧪 🆓 [**OSWorld**](https://os-world.github.io/) — Desktop OS-controlling agents.
 - 🧪 🆓 [**WebArena**](https://webarena.dev/) / [**VisualWebArena**](https://jykoh.com/vwa) — Web-navigation agents.
+- 🧪 🆓 [**ClawBench**](https://claw-bench.com/) — Live-production web-agent benchmark with 283 everyday browser tasks across 163 websites; submission interception prevents real-world side effects. [Code](https://github.com/TIGER-AI-Lab/ClawBench) · [paper](https://arxiv.org/abs/2604.08523).
 
 ### T8 · RAG
 
