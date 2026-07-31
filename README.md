@@ -706,6 +706,7 @@ Please review our [CONTRIBUTING.md](./CONTRIBUTING.md) before submitting a PR �
 - 📋 🆓 [**A practical guide to building agents**](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf) — OpenAI PDF (T11).
 - 📋 🆓 [**a16z AI canon**](https://a16z.com/ai-canon/) — a16z (T20/T21).
 - 📋 🆓 [**Agentic UX**](https://agentic-ux.com/) — 11 runtime lifecycle patterns for supervised delegation, organized before/while/after an agent acts, with interactive mockups, production screenshots, and an MCP server for coding agents (Daniel Albinsson, 2025).
+- 📋 🆓 [**Agentic Kit**](https://agentic-kit.dev/) — Eve Trust Kit: Aletheia capability portraits, `aletheia-cli` authority-diff CI gate, and Kit Certified stamped blueprints (Daniel Albinsson, 2026). Pairs with Agentic UX lifecycle patterns (T20).
 - 📋 🆓 [**Anthropic's prompt engineering overview**](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview) — Anthropic (T7).
 - ⭐ 📋 🆓 [**Building effective agents**](https://www.anthropic.com/engineering/building-effective-agents) — Anthropic. The canonical pattern taxonomy (T11).
 - 📋 🆓 [**Claude Code: best practices for agentic coding**](https://www.anthropic.com/engineering/claude-code-best-practices) — Anthropic (T1/T3).
