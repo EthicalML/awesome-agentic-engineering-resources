@@ -174,6 +174,7 @@ Please review our [CONTRIBUTING.md](./CONTRIBUTING.md) before submitting a PR �
 - ⭐ 🆓 [**Claude Code: Best practices for agentic coding**](https://www.anthropic.com/engineering/claude-code-best-practices) — Anthropic. CLAUDE.md, tools, slash-commands, headless mode.
 - 🆓 [**Here's how I use LLMs to help me write code**](https://simonwillison.net/2025/Mar/11/using-llms-for-code/) — Simon Willison. Grounded, practice-first account of daily LLM-assisted development.
 - 🆓 [**How to build an agent**](https://ampcode.com/how-to-build-an-agent) — Thorsten Ball. A working coding agent in ~400 lines; the clearest "agents are not magic" walkthrough.
+- 🆓 [**DeepSeek Harness Handbook**](https://github.com/sandbaseai/deepseek-harness-handbook) — SandBase. Source-backed operator guidance for installing, securing, debugging, and extending a tool-using coding-agent runtime.
 
 ### T2 · Spec-Driven Development & Context Engineering
 
