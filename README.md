@@ -1071,6 +1071,7 @@ Please review our [CONTRIBUTING.md](./CONTRIBUTING.md) before submitting a PR �
 
 ### T1 · Coding Agents
 
+- 🎥 🆓 [**AI Talks**](https://aietalks.com/) — Searchable summaries of practitioner talks on coding agents and AI-assisted development.
 - 🎥 🆓 [**Cursor: Building the AI-first IDE**](https://www.youtube.com/@cursor-ai) — Cursor team channel.
 - 🎥 🆓 [**Mastering Claude Code**](https://www.youtube.com/watch?v=r-ML9gZZBVo) — Anthropic (Boris Cherny).
 - 🎥 🆓 [**The future of AI coding**](https://www.youtube.com/@latent-space) — Latent Space talk archives.
