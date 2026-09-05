@@ -1171,6 +1171,7 @@ Please review our [CONTRIBUTING.md](./CONTRIBUTING.md) before submitting a PR �
 *Weekly and monthly curated newsletters.*
 
 - 📰 🆓 [**Ahead of AI**](https://magazine.sebastianraschka.com/) — Sebastian Raschka. LLM research + fine-tuning deep-dives.
+- 📰 🆓 [**AI Weekly**](https://aiweekly.co/) — AI news intelligence ranking what influential experts and organizations read and share across models, agents, funding, policy, and research.
 - 📰 🆓 [**Ben's Bites**](https://bensbites.co/) — Daily digest; founder-friendly.
 - 📰 🆓 [**Chip Huyen's Blog**](https://huyenchip.com/blog/) — Occasional long-form on AI engineering.
 - 📰 🆓 [**DiamantAI**](https://diamantai.substack.com) — Nir Diamant. Practical AI engineering and generative AI: RAG, agents, and LLM application patterns explained simply.
