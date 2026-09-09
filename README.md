@@ -1150,6 +1150,7 @@ Please review our [CONTRIBUTING.md](./CONTRIBUTING.md) before submitting a PR �
 
 *Recurring podcasts with strong agentic & AI-engineering coverage.*
 
+- 🎧 🆓 [**Chain of Thought**](https://chainofthought.show/) — Conor Bronsdon. Interviews with engineers and founders on production AI agents, evaluation, infrastructure, and developer tools, with full transcripts and show notes.
 - 🎧 🆓 [**Cognitive Revolution**](https://www.cognitiverevolution.ai/) — Nathan Labenz. Weekly AI engineering + strategy.
 - 🎧 🆓 [**Dwarkesh Podcast**](https://www.dwarkeshpatel.com/podcast) — Dwarkesh Patel. Deep interviews with top researchers.
 - 🎧 🆓 [**Gradient Dissent**](https://wandb.ai/fully-connected/podcast) — Weights & Biases. Applied-ML interviews.
