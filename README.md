@@ -641,6 +641,7 @@ Please review our [CONTRIBUTING.md](./CONTRIBUTING.md) before submitting a PR �
 - 🛠️ 🆓 [**LangGraph memory**](https://langchain-ai.github.io/langgraph/concepts/memory/) — LangChain.
 - 🛠️ 🆓 [**Letta (MemGPT) cookbook**](https://docs.letta.com/) — Letta.
 - 🛠️ 🆓 [**Mem0 quickstart**](https://docs.mem0.ai/) — Mem0.
+- 🛠️ 🆓 [**Mnemoverse quick setup**](https://mnemoverse.com/docs/api/agent-setup) - Mnemoverse. Wiring a memory server into Claude Code, Cursor, VS Code, Windsurf or ChatGPT over MCP, by API key or OAuth, then checking store, recall and feedback.
 
 ### T10 · Tool Use & MCP
 
