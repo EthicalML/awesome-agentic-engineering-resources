@@ -1217,6 +1217,7 @@ Please review our [CONTRIBUTING.md](./CONTRIBUTING.md) before submitting a PR �
 - 🆓 [**HarmBench**](https://www.harmbench.org/) — CAIS.
 - 🆓 [**MITRE ATLAS**](https://atlas.mitre.org/) — Adversarial threat landscape for AI systems.
 - 🆓 [**NIST Adversarial ML Taxonomy (NIST AI 100-2)**](https://csrc.nist.gov/pubs/ai/100/2/e2023/final) — NIST.
+- 🆓 [**Orca AI Incident Archive**](https://github.com/Continuum-AI-Corp/Orca-AI-Incident-Archive) — Continuum AI. Open database of real-world AI agent security incidents since January 2025, each backed by a primary source and flagged for whether an agent actually caused harm or a researcher only showed it could.
 - ⭐ 🆓 [**OWASP Top 10 for LLM Applications**](https://genai.owasp.org/llm-top-10/) — OWASP.
 - 🆓 [**Simon Willison's prompt-injection series**](https://simonwillison.net/series/prompt-injection/) — SW.
 
