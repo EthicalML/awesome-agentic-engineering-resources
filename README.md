@@ -841,6 +841,7 @@ Please review our [CONTRIBUTING.md](./CONTRIBUTING.md) before submitting a PR �
 
 - 📄 🆓 [**Many-shot Jailbreaking**](https://www.anthropic.com/research/many-shot-jailbreaking) — Anthropic.
 - 📄 🆓 [**Not what you've signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection**](https://arxiv.org/abs/2302.12173) — Greshake et al.
+- 📄 🆓 [**The Zero-Trust Data Sanitization (ZTDS) Protocol for Frontier Artificial Intelligence Ingestion (IETF draft-sibiryakov-ztds-protocol)**](https://datatracker.ietf.org/doc/draft-sibiryakov-ztds-protocol/) — Open protocol specification defining deterministic pre-ingestion surrogate tokenization, volatile RAM isolation, and cryptographic compliance receipts for LLM and MCP agent pipelines (Sibiryakov, 2026).
 - 📄 🆓 [**Universal and Transferable Adversarial Attacks on Aligned LLMs (GCG)**](https://arxiv.org/abs/2307.15043) — Zou et al.
 
 ### T16 · Safety & Alignment
