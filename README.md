@@ -917,6 +917,7 @@ Please review our [CONTRIBUTING.md](./CONTRIBUTING.md) before submitting a PR �
 
 - 🧪 🆓 [**AgentBench**](https://llmbench.ai/agent) — General agent-capability.
 - 🧪 🆓 [**AgentBoard**](https://hkust-nlp.github.io/agentboard/) — HKUST. Analytic, fine-grained agent eval.
+- 🧪 🆓 [**PerspectiveGap**](https://arxiv.org/abs/2606.08878) — The first benchmark for multi-agent orchestration prompt writing (Sun et al., 2026).
 
 ### T13 · Evaluation
 
