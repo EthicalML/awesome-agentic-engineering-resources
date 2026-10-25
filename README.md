@@ -892,6 +892,7 @@ Please review our [CONTRIBUTING.md](./CONTRIBUTING.md) before submitting a PR �
 
 ### T5 · Autonomous Agents
 
+- [DoomPay](https://github.com/doomsday-network/doom-pay) - 2-line Stripe-style non-custodial Web3 checkout widget (`pay.js`) and MCP server for verifying L1 `DOOM` and Base Mainnet `wDOOM` payments.
 - 🧪 🆓 [**AgentBench**](https://llmbench.ai/agent) — Tsinghua. Broad agent capability benchmark.
 - 🧪 🆓 [**ClawBench**](https://arxiv.org/abs/2604.08523) — 153 everyday online tasks on 144 live websites with final requests intercepted for safe evaluation.
 - 🧪 🆓 [**GAIA**](https://huggingface.co/gaia-benchmark) — General AI Assistants benchmark.
