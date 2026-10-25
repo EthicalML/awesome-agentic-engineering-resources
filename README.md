@@ -892,6 +892,7 @@ Please review our [CONTRIBUTING.md](./CONTRIBUTING.md) before submitting a PR �
 
 ### T5 · Autonomous Agents
 
+- 🛠️ 🆓 [**BountyGuard**](https://github.com/doomsday-network/bounty-guard) — Open-source MCP server & GitHub Action for deterministic AST code verification and on-chain bounty escrow settlement.
 - 🧪 🆓 [**AgentBench**](https://llmbench.ai/agent) — Tsinghua. Broad agent capability benchmark.
 - 🧪 🆓 [**ClawBench**](https://arxiv.org/abs/2604.08523) — 153 everyday online tasks on 144 live websites with final requests intercepted for safe evaluation.
 - 🧪 🆓 [**GAIA**](https://huggingface.co/gaia-benchmark) — General AI Assistants benchmark.
