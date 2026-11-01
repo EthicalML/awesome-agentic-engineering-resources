@@ -897,6 +897,7 @@ Please review our [CONTRIBUTING.md](./CONTRIBUTING.md) before submitting a PR �
 - 🧪 🆓 [**GAIA**](https://huggingface.co/gaia-benchmark) — General AI Assistants benchmark.
 - 🧪 🆓 [**MLE-bench**](https://github.com/openai/mle-bench) — ML-engineering agents.
 - 🧪 🆓 [**OSWorld**](https://os-world.github.io/) — Desktop OS-controlling agents.
+- 🧪 🆓 [**SciΠvot**](https://arxiv.org/abs/2610.21082) — 248 research-judgment cases built from senior researchers' corrections of LLM agents; the best frontier model scores 63.5%, and researchers new to the projects score 73.4% (Sun et al., 2026).
 - 🧪 🆓 [**WebArena**](https://webarena.dev/) / [**VisualWebArena**](https://jykoh.com/vwa) — Web-navigation agents.
 - 🧪 🆓 [**ClawBench**](https://claw-bench.com/) — Live-production web-agent benchmark with 283 everyday browser tasks across 163 websites; submission interception prevents real-world side effects. [Code](https://github.com/TIGER-AI-Lab/ClawBench) · [paper](https://arxiv.org/abs/2604.08523).
 
