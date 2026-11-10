@@ -815,6 +815,7 @@ Please review our [CONTRIBUTING.md](./CONTRIBUTING.md) before submitting a PR �
 
 ### T11 · Orchestration & Patterns
 
+- 📄 🆓 [**Agon: An Autonomous Large-Scale Omnidisciplinary Research System Built on Prompt Economy**](https://arxiv.org/abs/2606.24177) — Sun et al. Six design principles for autonomous research built on Prompt Economy, with 18 roles in 230.6 KiB of prompts across 10+ research fields.
 - 📄 🆓 [**ReAct: Synergizing Reasoning and Acting**](https://arxiv.org/abs/2210.03629) — Yao et al.
 - 📄 🆓 [**Reflexion: Language Agents with Verbal Reinforcement Learning**](https://arxiv.org/abs/2303.11366) — Shinn et al.
 - 📄 🆓 [**Self-Refine: Iterative Refinement with Self-Feedback**](https://arxiv.org/abs/2303.17651) — Madaan et al.
