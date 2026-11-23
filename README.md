@@ -209,6 +209,7 @@ Please review our [CONTRIBUTING.md](./CONTRIBUTING.md) before submitting a PR �
 - ⭐ 🆓 [**Introducing the Model Context Protocol**](https://www.anthropic.com/news/model-context-protocol) — Anthropic (2024). The canonical introduction to MCP.
 - ⭐ 🆓 [**Model Context Protocol — Specification**](https://modelcontextprotocol.io/) — Open protocol docs and SDKs.
 - 🆓 [**No Stairs Please MCP**](https://nostairsplease.com/mcp) — Remote MCP server with OAuth 2.1 for searching 2,200+ North American live-music venues, load-in stairs, and drive-time tour routing.
+- 🆓 [**OmniForge Launch Audit MCP**](https://omnipulse-x402.appwrite.network/mcp) — Public zero-auth Streamable HTTP MCP server providing 5 read-only pre-launch audit tools for HTTP security headers & client JS secret leaks, SPF/DKIM/DMARC DNS, `/llms.txt` AI crawler readiness, and 78-TLD RDAP availability ([open-source repo](https://github.com/zColdWater/mcp-launch-audit)).
 - 📄 🆓 [**Toolformer: Language Models Can Teach Themselves to Use Tools**](https://arxiv.org/abs/2302.04761) — Schick et al. (2023). The foundational tool-use paper.
 
 ### T11 · Orchestration, Planning & Design Patterns
