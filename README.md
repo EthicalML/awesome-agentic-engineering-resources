@@ -828,8 +828,10 @@ Please review our [CONTRIBUTING.md](./CONTRIBUTING.md) before submitting a PR �
 
 - 📄 🆓 [**A Survey on LLM-based Autonomous Agents**](https://arxiv.org/abs/2308.11432) — Wang et al.
 - 📄 🆓 [**AutoGen**](https://arxiv.org/abs/2308.08155) — Wu et al.
+- 📄 🆓 [**AutoNumerics: An Autonomous, PDE-Agnostic Multi-Agent Pipeline for Scientific Computing**](https://arxiv.org/abs/2602.17607) — Du et al. A team of agents writes and checks classical PDE solvers from a plain-language problem statement. On the CodePDE tasks, its errors are about six orders of magnitude lower than the CodePDE methods and FNO.
 - 📄 🆓 [**CAMEL: Communicative Agents for Mind Exploration**](https://arxiv.org/abs/2303.17760) — Li et al.
 - 📄 🆓 [**MetaGPT**](https://arxiv.org/abs/2308.00352) — Hong et al.
+- 📄 🆓 [**OptimAI: Optimization from Natural Language Using LLM-Powered AI Agents**](https://arxiv.org/abs/2504.16918) — Thind et al. Formulator, planner, coder, and critic agents turn a plain-language optimization problem into solver code. It reaches 88.1% on NLP4LP and 82.3% on Optibench.
 
 ### T13 · Evaluation
 
