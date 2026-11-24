@@ -797,6 +797,7 @@ Please review our [CONTRIBUTING.md](./CONTRIBUTING.md) before submitting a PR �
 ### T8 · RAG
 
 - 📄 🆓 [**Dense Passage Retrieval**](https://arxiv.org/abs/2004.04906) — Karpukhin et al.
+- 📄 🆓 [**ParamMute: Suppressing Knowledge-Critical FFNs for Faithful Retrieval-Augmented Generation**](https://proceedings.neurips.cc/paper_files/paper/2025/hash/90d1e515d74686ad148b469a3cecbbaa-Abstract-Conference.html) — Studies how suppressing specific feed-forward layers affects reliance on retrieved evidence when it conflicts with parametric knowledge (Huang et al., NeurIPS 2025).
 - 📄 🆓 [**Precise Zero-Shot Dense Retrieval without Relevance Labels (HyDE)**](https://arxiv.org/abs/2212.10496) — Gao et al.
 - 📄 🆓 [**RAG for LLMs: A Survey**](https://arxiv.org/abs/2312.10997) — Gao et al.
 - 📄 🆓 [**Retrieval-Augmented Generation for Knowledge-Intensive NLP**](https://arxiv.org/abs/2005.11401) — Lewis et al.
