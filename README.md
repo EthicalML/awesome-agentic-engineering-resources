@@ -843,6 +843,8 @@ Please review our [CONTRIBUTING.md](./CONTRIBUTING.md) before submitting a PR �
 
 ### T15 · Guardrails & Security
 
+- 📄 🆓 [**DRIFT: Detecting Representational Inconsistencies for Factual Truthfulness**](https://arxiv.org/abs/2601.14210) — Bhatnagar et al. Small probes on mid-to-late hidden states flag hallucinations while the model generates, at under 0.1% extra cost.
+- 📄 🆓 [**Jailbreaking LLMs' Safeguard with Universal Magic Words for Text Embedding Models**](https://arxiv.org/abs/2501.18280) — Liang et al. Universal suffixes along the bias direction of text-embedding outputs get past embedding-based guardrails; the paper also gives a training-free defense.
 - 📄 🆓 [**Many-shot Jailbreaking**](https://www.anthropic.com/research/many-shot-jailbreaking) — Anthropic.
 - 📄 🆓 [**Not what you've signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection**](https://arxiv.org/abs/2302.12173) — Greshake et al.
 - 📄 🆓 [**The Zero-Trust Data Sanitization (ZTDS) Protocol for Frontier Artificial Intelligence Ingestion (IETF draft-sibiryakov-ztds-protocol)**](https://datatracker.ietf.org/doc/draft-sibiryakov-ztds-protocol/) — Open protocol specification defining deterministic pre-ingestion surrogate tokenization, volatile RAM isolation, and cryptographic compliance receipts for LLM and MCP agent pipelines (Sibiryakov, 2026).
