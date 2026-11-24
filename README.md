@@ -895,6 +895,7 @@ Please review our [CONTRIBUTING.md](./CONTRIBUTING.md) before submitting a PR �
 - 🧪 🆓 [**MLE-bench**](https://github.com/openai/mle-bench) — OpenAI. Kaggle-style ML engineering benchmark.
 - ⭐ 🧪 🆓 [**SWE-bench**](https://www.swebench.com/) — Real-world GitHub-issue resolution benchmark; Verified subset is the de-facto industry standard.
 - 🧪 🆓 [**Terminal-Bench**](https://www.tbench.ai/) — Stanford / Laude. Long-horizon terminal task benchmark.
+- 🧪 🆓 [**WebsiteBench**](https://website-bench.com/) — Evaluates coding agents that reconstruct full-stack websites from browser exploration, with hidden tests for visual fidelity, user workflows, and state persistence.
 
 ### T5 · Autonomous Agents
 
