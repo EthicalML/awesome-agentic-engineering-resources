@@ -1185,6 +1185,7 @@ Please review our [CONTRIBUTING.md](./CONTRIBUTING.md) before submitting a PR �
 *Weekly and monthly curated newsletters.*
 
 - 📰 🆓 [**Ahead of AI**](https://magazine.sebastianraschka.com/) — Sebastian Raschka. LLM research + fine-tuning deep-dives.
+- 📰 🆓 [**AI SRE Weekly**](https://www.linkedin.com/company/ai-sre-weekly/) — Weekly newsletter tracking the AI SRE category: vendor launches, funding, incident-automation research and what changed for on-call teams.
 - 📰 🆓 [**AI Weekly**](https://aiweekly.co/) — AI news intelligence ranking what influential experts and organizations read and share across models, agents, funding, policy, and research.
 - 📰 🆓 [**Ben's Bites**](https://bensbites.co/) — Daily digest; founder-friendly.
 - 📰 🆓 [**Chip Huyen's Blog**](https://huyenchip.com/blog/) — Occasional long-form on AI engineering.
