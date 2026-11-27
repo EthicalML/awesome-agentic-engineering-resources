@@ -181,6 +181,7 @@ Please review our [CONTRIBUTING.md](./CONTRIBUTING.md) before submitting a PR �
 - 🆓 [**spec-kit**](https://github.com/github/spec-kit) — GitHub's toolkit and essay set on spec-driven development with coding agents.
 - ⭐ 🆓 [**The new code**](https://www.latent.space/p/new-code) — Sean Grove (OpenAI) on Latent Space. The canonical "specs are the new code" essay.
 - 🆓 [**The rise of "context engineering"**](https://blog.langchain.com/the-rise-of-context-engineering/) — LangChain. Why prompt engineering became context engineering.
+- 🆓 [**100x Engineer Skill**](https://github.com/DeadInternetStudios/100x-engineer-skill) — Open-source skill and CLI that turns requirements into formal properties, checks them during implementation, and records review evidence before a coding-agent run can finish.
 
 ### T6 · LLM Application Architecture & System Design
 
